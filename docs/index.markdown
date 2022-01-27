@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+permalink: /home/
 ---
 # I love my 80s shitbox.
-![](/assets/img/cab.jpg)
+![1985 Golf Mk1 convertible](/assets/img/cab.jpg)
 <br>
 
 This is my 1985 Golf Cabriolet project car, with the vision to make it a quick and fun NA cruiser around Hawai'i.
@@ -27,7 +28,7 @@ I didn't own any tools!
 But I really liked cool cars. And this car was cool as fuck.
 
 ## Starting a project cars
-![](/assets/img/face.jpg)
+![](/assets/img/face.jpg)<br>
 But I really liked cars, and it's only until I started learning how to work on cars that I really got the drive to work and learn more. I always thought that to have a project car, you had to know everything that you needed to know. You needed to learn about engine swaps, know every single car out there and it's pros and cons, know the HP numbers, and all this other technical jargon to be a car guy.
 
 But frankly, you don't need to know any of that. You just need to like cars.

@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Da Cabby - The Little Carbureted Project Car
+title: Da Cabby - The Carbureted Convertible
 description: >- # this means to ignore newlines until "baseurl:"
-  1985 Golf Cabriolet Mk1 project car. Short guides, experiments, and failures delving on the VW Golf Mk1 platform.
+  1985 Golf Cabriolet Mk1 project car.
 
 domain: sudoyashi.github.io
 baseurl: "/da_cabby/" # the subpath of your site, e.g. /blog
