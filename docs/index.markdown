@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /home/
 ---
-# I love my 80s shitbox.
+
 ![1985 Golf Mk1 convertible](/assets/img/cab.jpg)
 <br>
 
