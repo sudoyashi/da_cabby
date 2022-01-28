@@ -16,15 +16,7 @@ There's some pretty cool shit out there and we can't have it all. Just pickup a 
 
 ## I'm not a mechanic. But I like cars.
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-I actually bought my cabby on a whim. For $800, I got a vibrant metallic orange convertible that I knew very little about.
-=======
 I actually bought my cabby on a whim. For $800, I got a vibrant metallic orange convertible that I knew very little about. BBS wheels! Classic VW! A fucking steal!
->>>>>>> Stashed changes
-=======
-I actually bought my cabby on a whim. For $800, I got a vibrant metallic orange convertible that I knew very little about. BBS wheels! Classic VW! A fucking steal!
->>>>>>> Stashed changes
 
 But like many enthusiasts out there, I don't think many of us were mechanically inclined when we first picked up our very first project car.
 
@@ -32,8 +24,6 @@ I didn't know how to drive a manual transmission. <br>
 I didn't know how to do an oil change. <br>
 I didn't own any tools!
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 But I really liked cool cars. And this car was cool as fuck.
 
 ## Starting a project cars
@@ -44,8 +34,6 @@ But frankly, you don't need to know any of that. You just need to like cars.
 
 Want to start a project car on your own? [Read more here.](/_posts/2022-01-31-firstprojectcar.md)
 =======
-=======
->>>>>>> Stashed changes
 So, during the pandemic in mid 2020, I bought the car and instantly bought a starter set of tools for me to get wrenching. We strapped the idle Volkswagen back to my sister's house about a mile away with a loose tow strap and a lot of hope. My best friend from kindergarten drove my other car while I steered my new project car.
 
 I called my sister after the fact to park my new car in front of her house, thankfully she was fine with it. I spent the next 3 weeks looking through the manual, learning, doing, and making a bunch of mistakes and trips to Home Depot and O'Reilly's for new parts and supplies.
@@ -74,9 +62,4 @@ Ah, just YouTube it.
 
 <!--- Want to start a project car on your own?  [Read more here.](/_posts/2022-01-31-firstprojectcar.md)
 -->
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-
 <hr>
