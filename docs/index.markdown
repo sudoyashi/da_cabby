@@ -28,6 +28,7 @@ But I really liked cool cars. And this car was cool as fuck.
 
 ## Starting a project cars
 ![](/assets/img/face.jpg)<br>
+
 But I really liked cars, and it's only until I started learning how to work on cars that I really got the drive to work and learn more. I always thought that to have a project car, you had to know everything that you needed to know. You needed to learn about engine swaps, know every single car out there and it's pros and cons, know the HP numbers, and all this other technical jargon to be a car guy.
 
 But frankly, you don't need to know any of that. You just need to like cars.
@@ -55,7 +56,7 @@ Why not join in and spend all your extra time and money like us?
 
 It was only until I started learning how to work on cars that I really got the drive to work and learn more about automotive. I always thought that to have a project car, you had to know everything that you needed to know. You needed to learn about engine swaps, know every single car out there and it's pros and cons, know the HP numbers, and all this other technical jargon to be a car guy.
 
-But frankly, you don't need to know any of that. You just need to like cars! Well, and money. As of 2022 if you're a broke boy like me, $4000 should get you a car that's decent enough. Maybe I'll write more about picking a project, like the hundreds of other guides out there. 
+But frankly, you don't need to know any of that. You just need to like cars! Well, and money. As of 2022 if you're a broke boy like me, $4000 should get you a car that's decent enough. Maybe I'll write more about picking a project, like the hundreds of other guides out there.
 
 Ah, just YouTube it.
 
