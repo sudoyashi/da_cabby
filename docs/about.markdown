@@ -13,7 +13,9 @@ Refuse to give up, and you shall be rewarded... probably. It worked for me.
 
 <hr>
 
-## Engine
+Engine
+
+![1985 Golf Mk1 convertible](/assets/img/engine.JPG)
 
 **Factory numbers:** the numbers that the car is supposed to give.. but it probably doesn't lol
 
@@ -46,10 +48,13 @@ More information provided by [cabby-info.com](https://www.cabby-info.com/engine.
 
 The part that I've invested in the most since owning the car and what was stopping the car from moving in the first place.
 
+![1985 Golf Mk1 convertible](/assets/img/carbconversion-1.jpg)
+
 **CIS is out. Carburetors are in.**
 
 - Originally manufactured with CIS (Continuous Injection System), the system was replaced with a simpler carburetor system. 
 - Manifold and head flange made by DanST Engineering. Made decently well. Carburetor adapter kit was great, though the head flange I will say is not so user-friendly with where the bolts were placed. I don't think there was much room but oh well, haha. 
+- ![1985 Golf Mk1 convertible](/assets/img/intake-manifold.JPG)
 - ~1997 ZX6R Carburetors for a ~600CC motorcycle
   - Main jet per cylinder 1-2-3-4:
     - 155-160-160-155
@@ -64,11 +69,16 @@ The part that I've invested in the most since owning the car and what was stoppi
 
 ### Air and Exhaust
 
+![1985 Golf Mk1 convertible](/assets/img/cabby-rear-1.jpg)
+
 - Carbureted air intake with picross carb air filter
 - Techtonics Tuning  (TT) 4-to-1 headers, made for an ABA/JH mod, but for now I am full JH. No clearance issues. Removed the front sway bar.
 - Techtonics Tuning (TT) ex cat-back exhaust system
 
-## Suspension
+## Wheels and Suspension
 
-- Solowerks Coilovers,
+![1985 Golf Mk1 convertible](/assets/img/cabby-gallery-6.jpg)
 
+- Solowerks Coilovers, front and rear
+- 15x6.5 BBS RM on 185/55 R15 Arroyo Grand Sport
+- Slight rub on bumps, but otherwise decent setup.
