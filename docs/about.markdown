@@ -3,13 +3,21 @@ layout: page
 title: About the Build
 permalink: /about-the-build/
 ---
-1985 Volkswagen Golf Cabriolet (Mk1 chassis)
+Roughly $10,000.
+
+This is my first project car and since getting my own beginner socket and wrench set in 2020, until now, I have spent roughly $10,000 inclusive of the fees, maintenance costs, custom parts, and other useless things I shouldn't have bought. It's probably more, but I stopped counting at 5 figures for this hunk  of metal lol. 
+
+I believe I started with about $300 in tools, basic hand tools for the normal project car enthusiast. Impact wrenches, specialty bits, suspension tools, more power tools, and so on. The list of stuff that was both useful and useless is too much to bother with. But overall, I don't  think $10,000 is a terrible amount for what I have. A decently working car that is absolutely unsafe and 100% worth the effort when it finally pulled through. 
+
+Refuse to give up, and you shall be rewarded... probably. It worked for me.
+
+<hr>
 
 ## Engine
 
 **Factory numbers:** the numbers that the car is supposed to give.. but it probably doesn't lol
 
-- Lumped in the EA827 family of engines, JH engine
+- Lumped in the [EA827 family of engines](https://en.wikipedia.org/wiki/Volkswagen_EA827_engine), JH engine
   - 1781 cc inline 4, : bore /stroke 81/ 86.4 mm
 - 90HP at 5500 rpm
 - 105 lb ft torque at 3250 rpm
@@ -17,10 +25,10 @@ permalink: /about-the-build/
 
 **Head:** no modifications, decked flat block
 
-- Solid lifter head 026103373H (JH, air shrouded; 1984-1986)
+- [Solid lifter head 026103373H (JH, air shrouded; 1984-1986)](https://web.archive.org/web/20080311052159/www.techtonicstuning.com/camsspecs.asp)
 - SOHC 8v
 - Stock camshaft P/N 049 109 101 H/J 
-  - **Duration** @ 0.50" Intake and Exhaus: 212°
+  - **Duration** @ 0.50" Intake and Exhaust: 212°
   - **Lift** .369"
   - **Lobe Center** 110°
   - **Intake open @0.50"** -4.2° BTDC 	
@@ -30,15 +38,18 @@ permalink: /about-the-build/
 - Modifications:
   - Decked 0.04" by Ted's Automotive Shop
 
-
 **Block:** Stock JH block, no modifications
+
+More information provided by [cabby-info.com](https://www.cabby-info.com/engine.htm)
 
 ## Fuel System
 
 The part that I've invested in the most since owning the car and what was stopping the car from moving in the first place.
 
 **CIS is out. Carburetors are in.**
+
 - Originally manufactured with CIS (Continuous Injection System), the system was replaced with a simpler carburetor system. 
+- Manifold and head flange made by DanST Engineering. Made decently well. Carburetor adapter kit was great, though the head flange I will say is not so user-friendly with where the bolts were placed. I don't think there was much room but oh well, haha. 
 - ~1997 ZX6R Carburetors for a ~600CC motorcycle
   - Main jet per cylinder 1-2-3-4:
     - 155-160-160-155
@@ -56,4 +67,8 @@ The part that I've invested in the most since owning the car and what was stoppi
 - Carbureted air intake with picross carb air filter
 - Techtonics Tuning  (TT) 4-to-1 headers, made for an ABA/JH mod, but for now I am full JH. No clearance issues. Removed the front sway bar.
 - Techtonics Tuning (TT) ex cat-back exhaust system
+
+## Suspension
+
+- Solowerks Coilovers,
 
