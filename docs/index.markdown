@@ -5,6 +5,8 @@
 layout: home
 ---
 
+# A Hawai'i beach cruiser project - VW Golf Convertible 1985
+
 ![1985 Golf Mk1 convertible](/assets/img/cab.jpg)
 <br>
 
@@ -64,3 +66,4 @@ Ah, just YouTube it.
 <!--- Want to start a project car on your own?  [Read more here.](/_posts/2022-01-31-firstprojectcar.md)
 -->
 <hr>
+
