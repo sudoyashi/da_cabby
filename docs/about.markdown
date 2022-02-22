@@ -13,7 +13,7 @@ Refuse to give up, and you shall be rewarded... probably. It worked for me.
 
 <hr>
 
-Engine
+## Engine
 
 ![1985 Golf Mk1 convertible](/assets/img/engine.JPG)
 
@@ -82,3 +82,5 @@ The part that I've invested in the most since owning the car and what was stoppi
 - Solowerks Coilovers, front and rear
 - 15x6.5 BBS RM on 185/55 R15 Arroyo Grand Sport
 - Slight rub on bumps, but otherwise decent setup.
+
+![1985 Golf Mk1 convertible](/assets/img/suspension-1.jpg)
