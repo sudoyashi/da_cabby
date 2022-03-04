@@ -4,9 +4,6 @@
 
 layout: home
 ---
-
-# A Hawai'i beach cruiser project - VW Golf Convertible 1985
-
 ![1985 Golf Mk1 convertible](/assets/img/cab.jpg)
 <br>
 
