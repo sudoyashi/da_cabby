@@ -16,7 +16,7 @@ If there's anything that you really need to keep a project car is tenacity. Refu
 80% of the time I've owned this car, it was sitting in the garage. But on during the glorious 20% of time it works, it is one of the most euphoric and blissful feelings I have ever worked for in a long time.
 
 ## Starting a project car
-![](/assets/img/face.jpg)<br>
+![](/assets/img/engine.JPG)<br>
 
 But I really liked cars, and it's only until I started learning how to work on cars that I really got the drive to work and learn more. I always thought that to have a project car, you had to know everything that you needed to know. You needed to learn about engine swaps, know every single car out there and it's pros and cons, know the HP numbers, and all this other technical jargon to be a car guy.
 
