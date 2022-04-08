@@ -7,7 +7,9 @@ permalink: /torquespecs
 
 Yes, you need them.
 
-The only reason you would ignore them is when you have the years of experience to understand what you are torquing and knowing how much torque is really needed. Some people can reasonably gauge the amount of torque applied by their wrist, forearm, and arm's length of force. On small components like valve cover fasteners, you can use just your wrist to torque it down and get reasonably close to the 7-15lb./ft of torque needed for cars. But still, even if you have a good torque feel, you should be aware of the torque specs at least once before going by "feel".
+The only place that it would be acceptable is on small components like valve cover fasteners, headlights, or other fragile pieces.
+
+If you need to use two hands, you probably need a torque spec. But still, even if you have a good torque feel, you should be aware of the torque specs at least once before going by "feel".
 
 I used to think I didn't need them, then one day my wheel almost fell off. Great lessons are learned just before failure, eh?
  
