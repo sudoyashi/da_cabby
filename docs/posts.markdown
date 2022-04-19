@@ -1,6 +1,6 @@
 ---
 layout: page
-title: posts
+title: Posts
 permalink: /posts/
 ---
 
@@ -9,7 +9,7 @@ permalink: /posts/
 Find my (very) periodic posts here. Or something.
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in da_cabby.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>

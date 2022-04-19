@@ -14,7 +14,7 @@ This is my 1985 Golf Cabriolet project car, with the vision to make it a quick a
 Find my (very) periodic posts here. Or something.
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in dacabby.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
