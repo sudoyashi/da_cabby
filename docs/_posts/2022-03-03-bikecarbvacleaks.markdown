@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Issues - Carb conversion vacuum leaks"
+date:   2022-03-03 00:00:00 -1000
+categories: carburetor, vacuum leak, conversion, carbs
+---
+
 Carb conversion solving vacuum leaks
 
 I've had this vacuum leak issue since installing my carburetors and I would attribute this to user error, aka my dumbass, than the parts themselves.

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Plans - 1.8 JH 276 Camshaft Upgrade "
+date:   2022-03-04 00:00:00 -1000
+categories: power steering, coolant, radiator, cooling, ps
+---
+
 # Waking up the JH engine, camshaft preparation
 
 A new camshaft, a worth mod for its own post.
