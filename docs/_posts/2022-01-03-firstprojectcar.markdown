@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "How to start your shitty project car"
+title:  "Stories - How to start your shitty project car"
 date:   2022-01-03 00:00:00 -1000
-categories: projectcar beginner project
+categories: projectcar
 ---
 
 # Enjoy your first project car.

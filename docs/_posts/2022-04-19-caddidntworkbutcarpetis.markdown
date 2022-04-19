@@ -2,7 +2,7 @@
 layout: post
 title:  "Install - CAD... but it didn't work as planned!"
 date:   2022-03-04 00:00:00 -1000
-categories: vacuum leak, cad, bike carb conversion, carpet, interior, install carpet
+categories: cad
 ---
 
 Unfortunately, my laser-cut flange did not work as planned... I missed it by 2mm.

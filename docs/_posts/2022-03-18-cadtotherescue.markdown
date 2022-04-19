@@ -2,7 +2,7 @@
 layout: post
 title:  "Plans - Fixing my vacuum leaks with CAD"
 date:   2022-03-04 00:00:00 -1000
-categories: vacuum leak, cad, poor, bike carb conversion
+categories: cad
 ---
 
 I've stalled on making a video on my bike carb conversion long enough. It has technically been running... albeit very poorly. Running poorly after a year since making my first video isn't convincing anybody, so I decided to do it properly.

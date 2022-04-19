@@ -2,7 +2,7 @@
 layout: post
 title:  "Issues - Carb conversion vacuum leaks"
 date:   2022-03-03 00:00:00 -1000
-categories: carburetor, vacuum leak, conversion, carbs
+categories: carburetor
 ---
 
 Carb conversion solving vacuum leaks

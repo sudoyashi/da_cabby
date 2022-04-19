@@ -2,7 +2,7 @@
 layout: post
 title:  "Parts - CAD Radiator Shield"
 date:   2022-03-04 00:00:00 -1000
-categories: power steering, coolant, radiator, cooling, ps
+categories: cad
 ---
 
 # CAD Radiator Shield
