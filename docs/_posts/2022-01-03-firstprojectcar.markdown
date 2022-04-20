@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stories - How to start your shitty project car"
+title: "Stories - How to start your shitty project car"
 date:   2022-01-03 00:00:00 -1000
 categories: projectcar
 ---
