@@ -11,12 +11,13 @@ This is my 1985 Golf Cabriolet project car, with the vision to make it a quick a
 
 # Posts
 
-Find my (very) periodic posts here. Or something.
+<hr>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href=".{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>

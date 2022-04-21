@@ -4,10 +4,7 @@ title:  "Plans - 1.8 JH 276 Camshaft Upgrade "
 date:   2022-03-04 00:00:00 -1000
 categories: camshaft
 ---
-
-# Waking up the JH engine, camshaft preparation
-
-A new camshaft, a worth mod for its own post.
+Eventually, I plan on adding a 276 to improve the powerband dyanmic for the Mk1. A new camshaft, a worthy mod for its own post.
 
 While a new camshaft does not technically add major power on its own, a new camshaft would shift the powerband over between the RPM range. There are three factors that the camshaft will affect:
 - duration; how long a valve will be open and close

@@ -4,13 +4,14 @@ title: "Stories - How to start your shitty project car"
 date:   2022-01-03 00:00:00 -1000
 categories: projectcar
 ---
+Enjoy your first project car.
 
-# Enjoy your first project car.
-
-For the early 20 somethings, this is probably where you're at.
-
-- Insurance rate isn't so great on your following
-- Probably can't buy a car on credit
+The realities of your first project car go something like this:
+- Insurance rate isn't so great
+- Can't buy a car on credit, don't do it even if you do qualify
+- Not enough tools
+- Not enough parts
+- Not enough knowledge
 - Used car market is whack... as of 2021/2022
 - User car market will be riddled with mechanic specials at cheap prices
 
