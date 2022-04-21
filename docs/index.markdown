@@ -13,6 +13,6 @@ layout: home
 
 If there's anything that you really need to keep a project car is tenacity and money. Refuse to give up, but also have enough money to eat and live.
 
-Want to start a project car on your own?  [Read more here.](/_posts/2022-01-31-firstprojectcar.md)
+Want to start a project car on your own?  [Read more here.](/docs/projectcar/2022/01/03/firstprojectcar.html)
 
 <hr>
