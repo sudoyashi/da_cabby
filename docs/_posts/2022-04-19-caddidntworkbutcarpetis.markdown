@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Install - CAD... but it didn't work as planned!"
+title:  "My first laser cut part didn't go well."
 date:   2022-03-04 00:00:00 -1000
 categories: cad
 ---

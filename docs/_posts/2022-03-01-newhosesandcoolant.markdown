@@ -43,35 +43,39 @@ The wiring harness is protected by a relay and 10A fuse. In this diagram we have
 - 85 - Switch power relay circuit
 - 30 - Main power
 
-Here's a quick rundown of how a relay would work.
+What is a relay?
 
-A relay is basically two switches in one. We have our low power switch, which is our on/off button powered by the VDO gauges, going to the relay. When we turn the switch to the ON position, we complete the circuit from the VDO gauge and send power to the relay. Next, we have our high power switch. 
+A relay is basically two switches in one. 
+- First, we have our low power switch: terminal 85 and 86. These two are powered once connected, just like a lightbulb. It grounds to the body and is powered by turning on the car.
+- Second, our high power switch: terminal 30 and 87. Terminal 30 is where the 12V battery power comes in and terminal 87 is our *thing* we want to power. 
+- When we connect terminals 85 and 86 by pressing a button, this low-current circuit then allows terminal 30 and 87 to connect and power our *thing*.
 
-Once the high side receives enough electrical current, the relay will allow the main power to flow to the headlights, powering the headlights and completing the circuit.
-
-This is all to protect the two circuits from needing to use the same amount of current. Similar to the difference between powering a lightbulb and powering a refrigerator, you use the same power from your house, but run them along different circuits to protect the smaller cirucit.
+But why do we need two circuits if we only have one item? Protecting the circuit and decreasing the load. There undoubtedly many little circuits in a modern car, and if you're running ALL your circuits from battery power all the time, you'll wear and drain your battery significantly. It's not efficient. By using lighter, low-voltage circuits, we can control when we want to use the higher voltage *things*! 
 
 ### Hooking up the wires, it's... mostly straightforward
 
-From ground to power, complete the circuit. This is how you can understand wiring.
+From ground to power, complete the circuit.
 
-Draw yourself a diagram if you're planning on doing something similar and see where power goes, from ground to positive, understanding where and when power flows through. This helps when you're trying to splice into a circuit. Splice into the ground to retrieve a ground point, now, where does my cirucit get power from? Does my circuit give power and switch power? Where does power come from? The battery?
+DRAW yourself a diagram if you're planning on doing something similar and see where power goes, from ground to positive, understanding where and when power flows through. To start out mapping, start from the end. Where are your lights? Where are the wires going? How many switches do I need? 
 
-Most of our bonehead aftermarket solutions tap into a circuit that turns on from Ignition On. Finding ignition on what some people get intimidate about. The first time I heard that, I had no idea what I was looking for.
+Most of our bonehead aftermarket solutions tap into a circuit that turns on from Ignition On. Finding ignition on what some people get intimidated about. The first time I heard that, I had no idea what I was looking for.
 
 #### Part 1/3 - Add your new toggle switch, the low power side
 
-Ignition on circuits are just that, the circuit is complete when you turn your car to the ON (not to the start) position. **In most cases, it's your gauges, switches, or radio. Don't forget your cigarette lighter!** The biggest giveaways are to figure out what is the general color for grounds for your car. For these older VWs, it's brown. That is likely your ground wire. 
+SPLICE into ignition on or use a FUSE TAP!
 
-Once you find a circuit, you can use a multimeter for testing. You're goal is to determine what wires are power and ground. Switch your multimeter to measure voltage (V), up to the tens digit. Find a probable ground to test our wires with. Look in your car and look for bare metal, or something that looks like unpainted chassis. In my case, the metal near the parking brake. Take one probe and put touch it there, this is also called grounding your wire. I used the black one to represent the ground 
+Ignition on circuits are just that, the circuit gets power when you turn your car to the ON (not to the start) position. **In most cases, it's your gauges, switches, radio, or cigarette lighter!** The biggest giveaways are to figure out what is the general color for grounds for your car, then just don't choose those! For these older VWs, it's brown, for others it's probably black.
 
-Next, take your other probe and touch the wire or terminal that is probably ignition on power, alligator clips would help but aren't necessary. Read your voltmeter, it should say 0. This is our testing probe.
+Once you find a circuit, you can use a multimeter for testing. Look at your suspect wire and find the metal terimnal it's connected to. Take your positive lead (red) and touch the metal. Take your negative lead (black) and touch a body ground. It should read 0V. When you're ready, turn on the car and repeat. If it reads 12V, it's an ignition on circuit! Nice. If it reads anything substantially less than 12V, it's probably ground or something else... You're goal is to determine what wires are power and ground.
 
-Insert the key and turn the car to the ON position.
+A good wire to splice into has enough physical room around it and easy to splice in. You can us any way you want to splice: solder and splice or vampire clips.
 
-Ground one probe, test with the other probe. Did your voltmeter change voltage? It should change to 12V. If not, then that wire or terminal is not a powered circuit. Try another one. It shouldn't take too long to figure out which wire it is.
+Once you've confirmed your power source, tap into it and don't forget to cover it with tape or heat shrink. Run this tapped wired to your toggle switch. The other terminal will run towards the 85 of our relay. You may have a third wire for power to the indicator light on the switch, run another (+)wire to this to give it power for the light when headlights are on, again to find out which one that would be, look for something that turns on when your headlights are on, e.g. dash lights, radio lights, puddle lights.
 
-Once you've confirmed your power source, tap into it and don't forget to cover it with tape or heat shrink. Run this tap to your toggle switch. The other terminal will run towards the 85 of our relay. You may have a third wire for power to the indicator light on the switch, run another wire to this to give it power for the light. 
+Method 2: The easier way...
+
+What always gets power you turn the car on? The fuse block!.
+Your switch also needs to be connected to power! To do this, tap into the fuse-block 
 
 Good, 1/3 of wiring is done.
 

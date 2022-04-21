@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plans - Fixing my vacuum leaks with CAD"
+title:  "Using CAD to address vacuum leaks"
 date:   2022-03-04 00:00:00 -1000
 categories: cad
 ---
