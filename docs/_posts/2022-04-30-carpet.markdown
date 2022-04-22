@@ -26,6 +26,37 @@ It was incredibly tough to get everything put together and push myself to finish
 
 This car is NOT going to be a major show car, so I could cut corners and pay the price later. As much as I love this car, it is not a relic to stand the test of time. There are MANY other examples of better Golf Cabriolets out there so I am not inclined to particularly *save* this car and keep it purely stock. I think what purists get too caught up thinking that these cars are incredibly rare and tough to find. Yes, of course they may be hard to find, but you can find dozens upon dozens of well kept Golf Mk1s out there. I have no intention of doing a full restore because of the absurd amount of money I would be sinking in. I would much rather sink it into something that is actually rare and tough to find.
 
+## The Cost: $760
+
+On all the materials, not all tools: ~$760
+
+| Item                         | Price |
+| ---------------------------- | ----- |
+| Carpet                       | $180  |
+| Kilmat 36 sq.ft (2)          | $120  |
+| Closed Cell Foam Noico Red   | $120  |
+| Mass Loaded Vinyl 25 sq. ft. | $80   |
+| Rollers                      | $20   |
+| Aluminum Insulating Tape     | $20   |
+| Die grinder + supplies       | $115  |
+| Dry Ice                      | $30   |
+| Metal body filler            | $40   |
+| Butyl cord                   | $15   |
+| 3mm plastic sheeting         | $19   |
+| **TOTAL**                    | $759  |
+
+For my case, I went nearly full teardown and buildup. I would have spent more on welding and bigger patching materials if I had the income to do so, but I decided to go with metal body filler instead. 
+
+The biggest costs were obviously in the materials: carpet and sound deadening. If you are reusing your carpet, great! You save about 20% of the costs. If you are not installing sound deadening and just replacing the carpet, that is about 70% of my total costs.
+
+I probably could have saved myself more trouble by cheaping out, but it may have not lasted as long. I probably could have future-proofed this car by doing more proper metal repair and professional installation, but it defeats the purpose of a project car on a budget.
+
+Of course, not having tools would make this an expensive first project; however, this assumes you have a good garage set of tools which means a basic socket and wrench set, screwdrivers, prying tools, and cutting tools. This also assumes you have an air compressor, grinder, mallets, buckets,and cleaning supplies as well. 
+
+Lastly, body condition and other pieces you need to buy and replace will be a possible variable.
+
+The car is something I want to enjoy driving in comfort, not for performance. It will be far too expensive to make this car fast, haha. 
+
 ## The Process: Expedited
 
 ### Removing the Interior Remove door cards, shift boot, VDO gauge cluster, seats, and other fixins
