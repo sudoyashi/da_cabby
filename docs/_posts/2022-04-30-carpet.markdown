@@ -59,9 +59,97 @@ The car is something I want to enjoy driving in comfort, not for performance. It
 
 ## The Process: Expedited
 
+
 ### Removing the Interior Remove door cards, shift boot, VDO gauge cluster, seats, and other fixins
+
+Basically, all the interior pieces that you can get your hands on that you WANT to remove. The biggest obstacle for any DIY project is no one is going to make you do anything.
+
+Remove the parts that you can reliably put back on or have the confidence to do it slowly and carefully so that you don't break your car even more. This also means tools!
+
+Buy tools that you can get your hands on if it is going to save you a lot of time. This includes interior trim tools, trim pry tools, a variety of screwdriver sizes, scrap material to use as buffers, backings, and protection. This would be cardboard, plastic sheets, dust covers, etc. to cover the good parts of your car.
+
+On to actually removing the pieces, read on!
+
+#### VDO Gauges + Shift Boot
+
+The VDO gauges and shift boot are packaged together. Remove the two screws underneath the dash, one on the driver and passenger side. Remove the main phillips screw right between the boot and e-brake. Remove the shift know. 
+
+Space is tight, so lift up from the side next to the e-brake and tilt the assembly down. Shimmy the plastic out from underneath the dashboard, you will also slowly lift the shifter boot out of the shifter. Continue to shimmy out slowly, watching your wires connected to the gauges. Once it's mostly free, turn it to the passenger side and check your wires. Disconnect and label the connectors and lights. It's pretty easy to figure out by distance of the wires, but less guessing, more wrenching.
+
+#### Seats
+
+The front seats will be challenging the first time you do it.
+
+Pull the seat back all the way. Underneath the front of the seat, closer to the engine bay, there is an M6 bolt and acorn nut (unless there wasn't one, like mine). Remove those fasteners. Carefully slide out the seat until it comes off the rails. Repeat on the other side.
+
+There are several smaller parts to pay attention to:
+- Rubber center bushing; buy new
+- Plastic seat slides; buy new
+- Seat adjustment lever spring; buy used, wrap up your own spring, or buy a suitable extension spring
+- Seat adjustment lever locking pin; buy used
+
+Replace if they are missing, broken, or warped.
+
+The rear bench seat is held down by two phillips head screws, I lost mine so I replaced them with these spare metal screws that fit the bill.
+
+Remove the screws, then carefully lift out the bench. The seatbelts will reveal themselves in the left and right corner.
+
+To remove the rear seat back, there are two large phillip head screws on each side, you want to get a longer screwdrive to get a lower angle of attack so as to not strip the head. Remove the seat back.
+
+#### Front door cards
+
+Let's start with the armrest. There are two phillips head screws underneath, remove them. Lift the armrest enough where the angled portion is parallel to the ground, then gently pull it out of the door.
+
+Remove the screws from the speaker grille then gently pop it off.
+If you have the stock speaker, it will be screwed into the grille. Remove the speaker wire from the speaker. 
+
+Pop off the inteior handle backing with a flathead, then pull out the entire cupped part. The handle will remain. 
+
+Pop off the window crank, you may have to either peel off the handle crank plastic or pop it off. Here are both: This will reveal the screw. Remove it and SLOWLY remove the crank. There will be geared washers, look for the orientation and set aside. 
+
+Check your card for any other fasteners and screw covers. Review the whole card and take pictures to remember where what screw goes where.
+
+Take a car interior pry tool and start prying of from the door jamb, working our way from rear to the front of the car. Follow the perimeter. If something feels incredibly forced, you may have forgotten a screw. Once you've gone around the hole thing, it should come off. Takke it off slowly to not disrupt any critters living inside, probably.
+
+#### Rear door cards
+
+The rears are much simpler. Remove the window crank, again either by popping off or peeling off the trim, then remove the screw. Peel away the weatherseal around the driver and passenger door near the door card. There are the seatbelt plastics that are covered that we need to release.
+
+Again, use an interior pry tool to pull out the plastic fasteners, start on the side closest to the engine bay. Keep pulling away and it should be free. Note that the card sits on these edges.
+
+#### Other pieces
+Your seatbelts are held in by a single bolt, unfortunately I can't tell you the order of these washers and parts since mine were very corroded. They are 17mm heads and apply to both the front and rear seats.
+
+The doors (should) have plastic sheeting behind each door card, this is a moisture barrier and should be reinstalled or refreshed. I used 3mm plastic sheet with house butyl cord to seal it back up. Not complicated, just takes time.
+
 ### Removing the old carpet and anything that was rotting underneath
+
+WOO. The main event. Time to see all the damage from previous owners, the elements, and time. 
+
+If it's like most of the Golfs, the carpet is in two pieces for easier installation. I would recommend installing it this way for sanity sake. I gave up trying to install a single piece because replacement carpet is not particulaly correct.
+
+Remove the rear carpet from the bench seats to the center. Slowly lift out and fold in to keep the dust/mold from falling back in. The carpet may be fastened down in some places by the doors, pull away and should be fine.
+
+Next, remove the door sill trim and door sill carpet hold-down clips. Lift up the carpet to confirm any missing parts. You may find little gems from here on. Next, lift out any original sound deadening materials, the main one being the piece underneath the dashboard on the center "transmission" tunnel, where your shifter is. 
+
+From this point a small person with capable hands will help. And a flashlight. Starting at the driver's side, remove the two screws holding the hood release. Next, remove the throttle pedal foot stop. Next, straigthen out any metal fingers that hold down the carpet. Search for any other plastic fasteners that hold the carpet. Gently pull away to confirm.
+
+Repeat on the other side, search for fasteners and the metal fingers that hold down the carpet.
+
+This is not a pleasant experience. Continue to pull away and check for any remaining fasteners. Pull out the front carpet.
+
+Congratualations, wash your hands, my carpet was fuckin' gross and would not doubt yours wouldn't be either.
+
 ### Remove old butyl with dry ice and hammer
+
+Time to remove any old sound deadening and othe material. Note, there are intenional hole cutouts in the floor pans, do not simply bang away at them! 
+
+To remove the old black sound deadener, use dry ice. I got 10 lbs of it for the entire car. Pour the dry ice in ONE floor plan and let that sink in. I'd recommend gloves, eye protection, and a fan. Next, pour some isopropyl alcohol to accelerate the cooling effect. After about 5 minutes, take the remaining ice and swoop it over to the next pan. Pound the old rubber away and chunks should start flying. If you are distifisied, rotate all the way through and add more ice when you can.
+
+Repeat until mostly clean. 
+
+This will identity the flaws in your metal. Find the rust and grind it away. Paint it and confirm your work. This is the last time you will get to see a bare floor. Inspect from front to back.
+
 ### Clean, remove and patching any holes
 ### Repainting to prevent rust
 ### Install kilmat, sound deadening butyl
