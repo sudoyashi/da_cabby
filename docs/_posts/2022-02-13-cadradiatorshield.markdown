@@ -5,8 +5,7 @@ date:   2022-03-04 00:00:00 -1000
 categories: cad
 
 ---
-
-To improve the cooling design of the mk1, this piece was meant to prevent incoming air from escaping above the radiator. Not tested for aerodynamic (drag) improvements.
+This piece is meant to prevent incoming air from escaping above the radiator. Not tested for aerodynamic (drag) improvements. It should allow for less "air leaks" in the flow of air coming into the grille, improving the cooling slightly.
 
 ![Radiator shroud draft, drawing not to scale](/da_cabby/assets/img/cad_radiatorshroud.jpg)
 
@@ -15,9 +14,9 @@ To improve the cooling design of the mk1, this piece was meant to prevent incomi
 
 - **Material**: Stainless steel; if you're not getting it pre-bent, SS with withstand a hammer
 
-- **Material 2:** Aluminum; if you have dies or can get it pre-bent, too fragile if you try to bend on your own
+- **Material 2:** Aluminum; if you have dies or can get it pre-bent, too fragile if you try to bend it on your own
 
-- **Design Notes**: It'll mostly work, but it will warp a bit. Trimming and drilling needed. There is some warping up towards middle because there is no gusseting design to. I'd also recommend adding fabric or rubber edging to the perimeter, maybe plasti-dip? Paint before installing.
+- **Design Notes**: It'll mostly work, but it will warp a bit. Trimming and drilling are needed. There is some warping up towards the middle because there are no gussets to the design. I'd also recommend adding fabric or rubber edging to the perimeter, maybe plasti-dip? Paint before installing.
 
     I haven't gone to the extreme detail of this piece as it requires a bit of cleaning up, but overall it's in the right direction. You can decide where you want to fasten the parts as it covers most of the holes.
 

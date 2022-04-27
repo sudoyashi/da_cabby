@@ -5,7 +5,7 @@ date:   2022-03-04 00:00:00 -1000
 categories: cad
 ---
 
-I've stalled on making a video on my bike carb conversion long enough. It has technically been running... albeit very poorly. Running poorly after a year since making my first video isn't convincing anybody, so I decided to do it properly.
+I've stalled on making a video on my bike carb conversion long enough. It has technically been running...  very poorly. Running poorly after a year since making my first video isn't convincing anybody, so I decided to do it properly.
 
 (idle sound)
 
@@ -27,13 +27,20 @@ Not really. I decided to run it for a while and found that I could still drive w
 
 It was almost approaching a year of not driving the car, and if it could go just around the block, I was satisfied.
 
-## FIX IT
+## So the real plan is to actually fix it!
 
 Okay, so I actually plan on fixing it, foreal this time. How can I fix this issue? 
 
-I know the issue, it's a vacuum leak. Specifically from the intake manifold seals. The easiest way to check this out is to take off the head and inspect my flanges and seals for warping. Knowing the manifold was bent, it's not far off to think the flange was warped as well. Same goes for the seals that probably cause the warping from a leak, this caused a backfire in my carburetors. It was cool at first because I wanted to spit flames, then I found out that this was bad and not cool at all.
+I know the issue, it's a vacuum leak. How do you fix a vacuum leak? Seal it. Specifically from the intake manifold seals. 
 
-To fix this, I would need to get it milled flat and order new gaskets from Europe. What it really means it that I needed to spend more money. I didn't want to spend money on the new parts that would work, so I spent money on non-existing parts that I made that might work. 
+The easiest way to check this out is to take off the head and inspect my flanges and seals for warping. Knowing the manifold was bent, it's not far off to think the flange was warped as well. Same goes for the seals that probably cause the warping from a leak, this caused a backfire in my carburetors. It was cool at first because I wanted to spit flames, then I found out that this was bad and not cool at all.
+
+To fix this I had few options:
+- Buy a new flange and gaskets to replace them
+- Check for flatness, mill and reuse the same gasket
+- Check for flatness, make my own gaskets and parts
+
+I decided to make my own.
 
 ## CAD, not the cardboard kind
 

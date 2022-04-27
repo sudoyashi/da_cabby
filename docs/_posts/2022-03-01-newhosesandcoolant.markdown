@@ -64,6 +64,8 @@ Most of our bonehead aftermarket solutions tap into a circuit that turns on from
 
 SPLICE into ignition on or use a FUSE TAP!
 
+Splicing, more work.
+
 Ignition on circuits are just that, the circuit gets power when you turn your car to the ON (not to the start) position. **In most cases, it's your gauges, switches, radio, or cigarette lighter!** The biggest giveaways are to figure out what is the general color for grounds for your car, then just don't choose those! For these older VWs, it's brown, for others it's probably black.
 
 Once you find a circuit, you can use a multimeter for testing. Look at your suspect wire and find the metal terimnal it's connected to. Take your positive lead (red) and touch the metal. Take your negative lead (black) and touch a body ground. It should read 0V. When you're ready, turn on the car and repeat. If it reads 12V, it's an ignition on circuit! Nice. If it reads anything substantially less than 12V, it's probably ground or something else... You're goal is to determine what wires are power and ground.

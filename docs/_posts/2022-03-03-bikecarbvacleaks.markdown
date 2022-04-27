@@ -79,29 +79,28 @@ Removing the Mk1 head
    3. Intake hoses
    4. Exhaust system
    5. Carburetors, throttle body, etc. (throttle cable included)
-4. Disconnect your accessories
-   1. Alternator
-5. Disconnect cooling system
+4. Remove alternator belt
+5. Disconnect the cooling system
    1. By now the coolant should have drained out from the head flange.
 6. Removing the remaining timing components
    1. SET YOUR TIMING TO TDC
    2. Remove the timing belt
 
-The process is very similar to and engine swap. Disconnect everything that is connected to the engine head. Once that's done, remove the head itself
+The process is very similar to an engine swap. Disconnect everything that is connected to the engine head. Once that's done, remove the head itself
 
 - Remove the valve cover
 - Remove the 10 head bolts,
   - When removing the head, we want to avoid warping as much as possible
-  - The order we remove isn't nearly is crucial as installation, but due diligence never hurt in this process
+  - The order we remove isn't nearly as crucial as installation, but due diligence never hurt in this process
   - Start from the outside and work your way in,
-    - Break each bolt as necessary by hand
+    - Using a breaker bar, break loose each bolt by hand
     - Electric impact wrench to do the rest of the work
   - Store the bolts safely. I'm reusing mine since they're relatively new.
 - Once removed, confirm all other connections are free.
 
 Have a place to put the head, make sure it's free of contaminants.
 
-- Lift the head square off the block and place it down gently. 
+- Lift the head straight off the block and place it down gently. 
 
 Congrats, the head is off. Now it's time to do some inspection up close.
 
@@ -109,7 +108,7 @@ Congrats, the head is off. Now it's time to do some inspection up close.
 
 My prime suspect is the intake manifold flange to the head, this is where it was leaking the most. I am guessing that it got burnt up from driving lean. 
 
-The flange bolts are stripped in my case, rounded socket heads are the worst. To remove them, I'm going to first try jamming it with a torx bolt. I also know that one of my allen heads snapped in the bolt itself. This one, I'll attempt with a dremel, cut a slice to jam a flathead and remove it that way.
+The flange bolts are stripped in my case, and rounded socket heads are the worst. To remove them, I'm going to first try jamming it with a Torx bolt. I also know that one of my Allen heads snapped in the bolt itself. For this one, I'll attempt with a Dremel, cut a slice to jam a flathead, and remove it that way.
 
 Finally, after removing the bolts, I can inspect the flange for flatness, the intake side of the head, and the gasket itself.
 
@@ -149,17 +148,18 @@ At this point, with this part FINALLY, FINALLY solved preliminarily, we can rein
 
 I'm reusing the head bolts but I got a new head gasket. $20 insurance.
 
-Take a clean paper towel and gently clean the block face that will seal to the head. Wipe a light coat of oil on the cylinder walls, again, precautionary. Double check to make sure that cylinder is at TDC. This will make timing much easier.
+Take a clean paper towel and gently clean the block face that will seal to the head. Wipe a light coat of oil on the cylinder walls, again, precautionary. Double-check to make sure that the cylinder is at TDC. This will make timing much easier.
 
 Line up the new head gasket with the locating dowels, then take the head and place it square on the block.
 
 Install the head bolts.
 
 - Starting from the inside and working our way out, start hand tightening the head bolts. Do this until all 10 are in.
-- Next, torque it down to X lb ft
-- Finally torque it down to its final spec
+- Next, torque it down to 30 lb-ft
+- Then 43 lb-ft
+- Finally, two 90* turns for each head bolt
 
-Reattach the timing belt, this way we can confirm that timing is okay. With the timing belt reattached, spin the engine clockwise, in the direction the car is going on a LHD car, and confirm that it spins smoothly. Reset the engine back to TDC.
+Reattach the timing belt, this way we can confirm that the timing is okay. With the timing belt reattached, spin the engine clockwise, in the direction the car is going on an LHD car, and confirm that it spins smoothly. Reset the engine back to TDC.
 
 <hr>
 
@@ -167,14 +167,7 @@ Installation should be straightforward, reattach all the lines, connectors, and 
 
 One last check before putting fluids back in, with the intake, exhaust, and head installed, we can re-test with smoke for any leaks. Reconnect the smoke system and pressurize the intake. If the smoke is coming out of the throttle body, then well done. If not, welcome to the club. Again, vacuum leaks are simple but not easy. See if the vacuum leak is coming from elsewhere.
 
-Add in your distilled water, lightly pour some oil in the head to replace any lubricants lost. Spin the engine once more and confirm timing. If everything is connected, prime the oil pump by removing the terminal 15 ignition coil wire. This will take away spark and allowing only the starter to work the engine. This will prime the fuel bows and oil lines. As well as cycling some water through the cooling system. If all is satisfactory, reconnect the wire, and hold your breath.
-
-
-
-Turn the car on and if all went to plan, the car should start up with no issues and no hissing.
-
- 
-
+Add in your distilled water, and lightly pour some oil into the head to replace any lubricants lost. Spin the engine once more and confirm the timing. If everything is connected, prime the oil pump by removing the terminal 15 ignition coil wire. This will take away the spark and allow only the starter to work the engine. This will prime the fuel bowls and oil lines. As well as cycling some water through the cooling system. If all is satisfactory, reconnect the wire, and hold your breath.
 <hr>
 
 
