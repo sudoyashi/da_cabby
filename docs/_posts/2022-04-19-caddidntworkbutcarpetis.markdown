@@ -4,6 +4,7 @@ title:  "Fixing my vacuum leaks with technology (CAD)"
 date:   2022-04-19 00:00:00 -1000
 categories: cad
 ---
+![Leak](/da_cabby/assets/imgs/engine head/leak.jpg)
 I know the issue, it's a vacuum leak. How do you fix a vacuum leak? Seal it. Specifically from the intake manifold seals. 
 
 The easiest way to check this out is to take off the head and inspect my flanges and seals for warping. Knowing the manifold was bent, it's not far off to think the flange was warped as well. Same goes for the seals that probably cause the warping from a leak, this caused a backfire in my carburetors. It was cool at first because I wanted to spit flames, then I found out that this was bad and not cool at all.
@@ -53,7 +54,7 @@ This was a first for me, an actual DIY achievement for me. I designed my first b
 
 ## Looking Forward: Clean the engine, install the head
 
-![Head complete](/da_cabby/assets/imgs/engine head/head.jpg)
+![Head complete](/da_cabby/assets/imgs/engine head/head.JPG)
 
 The block needs some cleaning from all that carbon, so I can get all of that done pretty easily. I'm SUPER stoked that I have a good chance of a succesful engine now, so in a couple weeks when everything is buttoned up, I'll be up and running just in time for summer.
 
