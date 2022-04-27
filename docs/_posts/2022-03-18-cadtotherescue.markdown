@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using CAD to address vacuum leaks"
+title:  "Making my own gaskets with CAD"
 date:   2022-03-04 00:00:00 -1000
 categories: cad
 ---
@@ -48,13 +48,13 @@ It was a good excuse to finally learn more about CAD and machining. I learned gr
 
 Though I lack the experience and technical knowledge, I have stupidity and tenacity. 
 
-Making the gaskets and flange were very daunting.
+Making the gaskets and flange were very daunting
 
 I first traced the gasket on a piece of paper then made arbitrary measurements with my cheap calipers and ruler. They were arbitrary because every measurement had +/- 2mm of variation. In machining, this is terrible. After a lot of google and youtube, I finally made something that looked identical to the part. I appended a part to cover my fifth intake hole since the original aftermarket part didn't account for this. 
 
 Essentially, I made this part even better. Right?
 
-## Testing
+## Testing with a smoke machine
 
 I didn't need to install the head yet, but I place it on there gingerly to test the flange sealing. I hooked up the smoke test in most of the same way as I did before and...
 
@@ -63,21 +63,21 @@ oh my goodness it worked.
 3 days of learning and using cad paid off. In honesty, it probably saved me about $30. But that's $30 I could use to buy whatever I want.
 
 I reinstalled the head:
-
-- used a new gasket
-- reused the head bolts
-- checked my valve clearances because I'm already there, I can order the shims for another day
-- Reinstall the valve cover gasket
-- Reinstall the carbs
-- Attempt to start the car
-
+- new head gasket
+- new head bolts
+- new exhaust gaskets
+- reinstall headers
+- reinstall intake flange
+- reinstall carbs
+- refill fluids
+- reinstall valve cover gasket
+- start the car!
 We should easily start the car at this point, aaaaannnd.
 
-## IT WORKED
+## And it worked!
 
 This was a first for me, an actual DIY achievement for me. I designed my first bolt-on engine parts. Now, this wasn't a performance part but it wasn't particularly an easy part either. It took a lot of testing and trials and to see it come to fruition is something I can't buy with bolt-on parts.
 
 The parts were made of aluminum and foam, with similar specs that matched my current setup.
 
-## Now what?
 

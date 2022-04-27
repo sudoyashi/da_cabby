@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Carbs are Losing Power! Vacuum Leaks"
+title:  "How to address carburetor vacuum leaks."
 date:   2022-03-03 00:00:00 -1000
 categories: carburetor
 ---
@@ -48,13 +48,9 @@ Go over every possible place that may leak air. Starting from your engine intake
 
 Once you've find your vacuum leak, we'll go about the way on how to fix it.
 
-If it's a gasket you can replace, replace the gasket. If it's a cut hose or loose hose, replace the hose and/or clamp that secures it. And if a connection is simply loose, tighten it up.
+If it's a gasket you can replace, replace the gasket. If it's a cut hose or loose hose, replace the hose and/or clamp that secures it. And if a connection is simply loose, tighten it up. My vacuum leak is coming from the head, the intake manifold flange. I have two gaskets there and I'm unsure which one it's coming from since they're so close together. What does a smoke test indicate? **The path of least resistance.** You can spot it from this faint wisp of smoke coming through the flange. This was not the biggest leak, but it shows how easy it is to find a leak.
 
-Vacuum leaks are simple, there's a leak to secure. But, simple doesn't mean easy in these cases. This is why I recommend smoke testing, you can find exactly where the leak is coming from, but even that doesn't make it easy to solve. 
-
-My vacuum leak is coming from the head, the intake manifold flange. I have two gaskets there and I'm unsure which one it's coming from since they're so close together. What does a smoke test indicate?
-
-- The path of least resistance.
+![Leak](/imgs/engine head/leak.jpg)
 
 This means that while you will solve the weakest vacuum leak, it may not be ALL the vacuum leaks. The hole might be so big that all the smoke goes to that spot. Once that's covered, smaller holes might appear because the big one is gone. Repair and retest.
 
