@@ -80,4 +80,3 @@ This was a first for me, an actual DIY achievement for me. I designed my first b
 
 The parts were made of aluminum and foam, with similar specs that matched my current setup.
 
-

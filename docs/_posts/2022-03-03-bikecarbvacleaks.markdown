@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to address carburetor vacuum leaks."
-date:   2022-03-03 00:00:00 -1000
+date:   2022-04-16 00:00:00 -1000
 categories: carburetor
 ---
 
@@ -50,7 +50,7 @@ Once you've find your vacuum leak, we'll go about the way on how to fix it.
 
 If it's a gasket you can replace, replace the gasket. If it's a cut hose or loose hose, replace the hose and/or clamp that secures it. And if a connection is simply loose, tighten it up. My vacuum leak is coming from the head, the intake manifold flange. I have two gaskets there and I'm unsure which one it's coming from since they're so close together. What does a smoke test indicate? **The path of least resistance.** You can spot it from this faint wisp of smoke coming through the flange. This was not the biggest leak, but it shows how easy it is to find a leak.
 
-![Leak](/imgs/engine head/leak.jpg)
+![Leak](/da_cabby/imgs/engine head/leak.jpg)
 
 This means that while you will solve the weakest vacuum leak, it may not be ALL the vacuum leaks. The hole might be so big that all the smoke goes to that spot. Once that's covered, smaller holes might appear because the big one is gone. Repair and retest.
 

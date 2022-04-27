@@ -5,7 +5,6 @@ date:   2022-04-19 00:00:00 -1000
 categories: cad
 ---
 
-
 I've stalled on making a video on my bike carb conversion long enough. It has technically been running...  very poorly. Running poorly after a year since making my first video isn't convincing anybody, so I decided to do it properly.
 
 ## The issues
@@ -43,7 +42,7 @@ I decided to make my own.
 
 ## CAD, not the cardboard kind
 
-![CAD Draft](/assets/cad-intakezx6r.png)
+![CAD Draft](/da_cabby/assets/cad-intakezx6r.png)
 
 It was a good excuse to finally learn more about CAD and machining. I learned graphic design and used graphic design in my projects before, so I figure I should jump into CAD. I used OnShape to design and SendCutSend, per recommendation from SuperFastMatt. Honestly, a lot of inspiration came from superfastmatt to make my own things. 
 
@@ -59,7 +58,7 @@ Essentially, I made this part even better. Right?
 
 Unfortunately, my laser-cut flange did not work as planned... I missed it by 2mm.
 
-![Missed it by 2mm](/imgs/engine head/flange.jpg)
+![Missed it by 2mm](/da_cabby/imgs/engine head/flange.jpg)
 
 My measurements made it not unusable but it's a very good learning experience. 
 
@@ -89,7 +88,7 @@ We should easily start the car at this point, aaaaannnd.
 
 This was a first for me, an actual DIY achievement for me. I designed my first bolt-on engine parts. Now, this wasn't a performance part but it wasn't particularly an easy part either. It took a lot of testing and trials and to see it come to fruition is something I can't buy with bolt-on parts.
 
-![Cork gasket](/imgs/engine head/cork-1.jpg)
+![Cork gasket](/da_cabby/imgs/engine head/cork-1.jpg)
 
 Once everything was fastened down for the second smoke test, to my surprise, it sealed very well! Great! I've got a sealed head without the vacuum leaks. Originally when I was running the car a couple months ago, I ran INCREDIBLY rich, like 12:1 AFR rich, and that carbon buildup showed on the pistons, so I will need to adjust the idle jets from the very rich 150 jets, down to 140. An educated guess.
 
@@ -102,12 +101,11 @@ Now that the air leak problem is finally solved, I'll retune the carbs in a few 
 
 ## Looking Forward: Clean the engine, install the head
 
-![Head complete](/imgs/engine head/head.jpg)
+![Head complete](/da_cabby/imgs/engine head/head.jpg)
 
 The block needs some cleaning from all that carbon, so I can get all of that done pretty easily. I'm SUPER stoked that I have a good chance of a succesful engine now, so in a couple weeks when everything is buttoned up, I'll be up and running just in time for summer.
 
 Cleaning block means using a green scrubby pad and being very careful not to get any particles in the holes. After cleaning the carbon, clean up the engine bay to prevent further contamination, lightly oil the cylinder bores, and reinstall the head!
-
 
 
 
