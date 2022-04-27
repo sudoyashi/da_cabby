@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making my own gaskets with CAD"
-date:   2022-03-04 00:00:00 -1000
+date:   2022-03-06 00:00:00 -1000
 categories: cad
 ---
 
