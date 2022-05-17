@@ -108,10 +108,48 @@ We can break the conversion into these major steps:
 This is the ideal sequence of events that would happen provided that everything goes smoothly! But, I'm willing to bet that this is NOT going to happen. If it does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with step 1.
 
 ## 1. Remove the current fuel injection system
+
+Removing the current system is pretty straightforward, but don't go ripping out every single component. We'll look at the process I went through with the Golf.
+
+The basics of removing the current fueling system  start from the fuel pump. You can assess what you need and don't need. I kept the in-tank fuel pump since that acted more as a sender from the fuel tank. In the original design of the Golf, two fuel pumps exists: the in-tank one and the pressurized one outside of the pump. I removed the outside one, connected to the fuel tank along with the accumulator. From the rear of the car, I also removed whichever fittings I could and temporarily removed the hoses to the fuel return. 
+
+At the time, I was not sure what to do with the fuel return, so I just capped it off and both ends, keeping it there just in case for the future.
 ## 2. Modify the fuel delivery system
-## 3. Modify the air and vacuum systems
-## 4. Install carburetors
+
+Starting from the tank, be positive you have a clean tank! Check the inside of the tank and make note if you have a fuel sending unit with the float and fuel pump, be sure they are in good working order. The float will  measure the fuel in your tank and usually it comes packaged with the fuel pump right next to it. In combination, this in-tank system pulls out the fuel to be delivered. However, the Mk1 has a slightly different setup.
+
+There are actually TWO fuel pumps for the Mk1, one inside and one outside! Inside the tank is a lift pump that will lift fuel from the tank through the lines, the second pump is what actually pressurizes the fuel to 43.5 PSI~. It passess through a fuel accumulator as well to... accumulate fuel! Accumulating fuel aids the car in starting, similar to the function of a choke, and also helps to mitigate pulsations from the fuel pump itself.
+
+In my case, we replaced the second pump that pressurizes is to 43.5 PSI. Replacing this pump made it simpler to hook up this system. As the car runs, it will only be able to generate up to 3 PSI of fuel, which is enough for the carbs that I am running. 3 PSI is not a rule-of-thumb for all carb conversion setups, it is what works for my specific carburetors that came from a 98 ZX6R. According to the manuals that I've found, it runs at about 3 PSI. The best thing to do is search for a replacement fuel pump for your specific bike carb source, this way you can get the most correct PSI possible.
+
+Once you solve the pumping setup, add a fuel filter before entering the pump. I also put a filter in the engine to further assist the filtering process, though I'm wary that this may cause PSI issues. I am keeping an eye on this, but so far it seems okay. There are a few ways to plumb your fuel line, the simplest would be to use rubber fuel line and attach those hoses to the existing metal lines. Considering this is a low PSI application, I felt it was fine to use the regular fuel line versus stainless steel braided line. Run the lines through and attach it to your carburetors. In the engine bay, consider heat management if your line is going to run near the exhaust manifold. Confirm all your lines, pressurize your system for leaks. 
+
+If everything works as normal, congratulations, you've successfully assembled your fueling system. Next up, the air and vacuum systems.
+
+## 3. Vacuum and Carburetors
+
+The vacuum system is simple but can get extemely tedious and complex as the days go on. The work is not terribly difficult, but it can become a pain to diagnose without the aid of a few tools. Namely, a smoke tester and a carb synchronizer.
+
+With your car's original intake system gone, you need to trace from your intake holes to all other parts of your vehicle that utilize vacuum, think of your brake booster, charcoal emissions, vacuum-based systems like distributors, shift lights, even extending over to tachometers. There are many applications for the big air pump in your car and vacuum is a big part of making carburetors work well. Unfortunately, tracing a vacuum leak is quite difficult if you're not sure what happened. By using a smoke tester, you can push smoke through your vacuum system enough to see where a leak might occur! The smoke should eventually reach the intake side of the fuel system, and if there are no more leaks, then you are all sealed from there. The hard part is actually getting there!
+
+This was probably the most challegning part of my whole build. I could not find a way to seal my vacuum leaks without spending a good chunk of money refinishing, surfacing, and making new parts. It was a pain...
+
+Attach your carburetors to your head with a custom manifold and flange suited to fit the orafices of your carbs, adapt them with fuel-resistant, fluoro-lined hoses. Using good clamps will save you in the long run instead of the regular worm clamps. Worm clamps are the simplest and cheapest, but they don't seal as well and you can risk biting into your hoses if you go too far. Spring clamps are very good clamps, but can be hard to use if they are going to be in tight spaces. The one I recommend are T-Bolt clamps, functioning just like a worm clamp but with the security of a circular bite as good as a spring clamp.
+
+Instead of biting from the torque point, the entire inner surface clamps onto the hose. Use the T-bolt clamps at the most crucial point: the intake manifold. All other areas, use worm or spring clamps to secure the vacuum and fuel lines. Some vacuum lines probably won't need clamps if you're using barbed fittings to join them.  
+
+Once the entire system is mostly put together. We can start doing real tests.
+
+
 ## 5. Testing for air, vacuum, and fuel leaks
+
+To avoid damaging your engine, do whatever you need to do to prevent your plugs from combusting the AFR mixture.
+
+- Prime your fuel pump, as it will probably be a little dry on the first Ignition On cycles. Turn the car on and off to get fuel flowing through your fuel lines. Check for leaks.
+- Smoke the vacuum system, double check your vacuum system to see if there are any leaks. Smoke should only come out of your carburetors. If there are leaks
+- Check your throttle cable and other mechanical linkages. Pull your cable to make sure there is no binding across the throttle range.
+- Check your fuel pressure, be sure it's the correct fuel pressure for you carbs. If it's low, chcek your fuel filter and check for blockages or kinks in your hoses. If it's too high, your pump might be faulty. 
+- 
 ## 6. Install auxiliaries 
 ## 7. First start, first drive to 7-Eleven
 ## 8. Tuning sessions
