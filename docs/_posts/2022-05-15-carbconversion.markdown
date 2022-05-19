@@ -146,17 +146,58 @@ Instead of biting from the torque point, the entire inner surface clamps onto th
 
 Once the entire system is nearly complete. We can almost start the car!
 
-## 5. Testing for air, vacuum, and fuel leaks
+## 5. Testing! Checks before the first start.
 
 To avoid damaging your engine, do whatever you need to do to prevent your plugs from combusting the AFR mixture. You can pull spark plugs, disconnect all the spark plug wires, or disconnect the main coil wire.
 
-- Prime your fuel pump, as it will be a little dry on the first Ignition On cycles. Turn the car on and off to get fuel flowing through your fuel lines. Check for leaks.
+- Prime your fuel pump, fill the lines with fuel to get good pressure. Turn the car on and off to get fuel flowing through your fuel lines. Check for leaks.
 - Smoke the vacuum system, and double-check your vacuum system to see if there are any leaks. Smoke should only come out of your carburetors. If there are leaks
 - Check your throttle cable and other mechanical linkages. Pull your cable to make sure there is no binding across the throttle range.
 - Check your fuel pressure, be sure it's the correct fuel pressure for your carbs. If it's low, check your fuel filter and check for blockages or kinks in your hoses. If it's too high, your pump might be faulty. 
-- 
-## 6. Install auxiliaries 
-## 7. The first start, first drive to 7-Eleven
+
+If everything goes smooth from here, attempt to start the car. Wire up all your plugs, coil, and fuel lines, clean up the engine bay, and attempt to start the car. If it starts, congrats! **If it doesn't start, here are some issues you could be running into.**
+
+### Potential Issues:
+
+We have to start a good amount of assumptions before diagnosing anything. Jumping to conclusions won't yield a good diagnosis. Trying to start a car after working on it for months would leave your gas a little stale. Do you even know if you have enough gas? Don't make too many changes before knowing exactly where the baseline is. At this point, let's challenge our assumptions:
+- Is my engine healthy? Compression, valves, timing, are they all ok?
+- Fluids? Oil, coolant, gas
+- Tension? Timing belt, serpentine, other auxiliary belts up to spec
+- Leaks? Air or oil leaks?
+- Electrical issues? Is my car properly grounded? Is my battery charged? Is my alternator okay? Am I getting spark?
+
+Remember the five elements needed to start an engine:
+- Spark
+- Air
+- Fuel
+- Compression
+- Timing
+
+If you passed the assumptions test, then let's look a little deeper and diagnose our issues.
+
+Is there a hissing noise when you use the starter?
+- Check for vacuum leaks. The hissing could be the air coming in through a small hole or leak. This is known as unmetered air. While we do want more air for the engine to create more power, unmetered air is unaccounted and will through your AFR out of balance. Let's start the car on a good note.
+
+Car starts, then dies, but can start again?
+- This could be a number of things.
+
+Cranking, but takes a while to start the car? 
+- Assuming you have correct vacuum, adequate fuel pressure, and no leaks, not starting could mean your AFR mixture is too lean. Your engine is cold and needs more fuel to start a combustion cycle. Let the car cool down then try to start the car with starter fluid. If it starts normally, let the car warm up, then adjust your AFR. 
+
+After letting the car warm up, I turn off the car, but the violently engine spins over again before stopping completely!
+- This is called dieseling. Diesel engines work with heat and compression and do not use spark for ignition. When you turn off the car, there is leftover air and fuel in the combustion chambers, hence a short term turnover until the engine depletes the leftover fuel. It's not only dangerous and unhealthy for your engine, but it's very annoying.
+
+Challenge you assumptions, challenge your answers. Every setup is different in this conversion and you are the most aware of what changes were made to the car. The problem can always be solved with enough money.
+
+## 7. First drive to the gas station
+
+FINALLY. 
+
+Driving your project car on the block is a validation that your car still works after making so many changes to the car. Start the car and let it warm up to give it the best chance of surviving your drive. Don't forget about your brakes and lights, the vacuum system is connected to your brake booster right? It's good that you have a working engine, but safety becomes more important after making these modifications. If everything checks out, roll out of your driveway and see if you can make it back. If you're feeling brave, take it on a public road. And if you're really brave, go to the drive-thru.
+
+I went to the gas station for my first trip since I really needed to fill up some gas to sub out the old gas. Get a feel for the suspension, brakes, mobility, and throttle response. See how the car changed. You could be faster too! But I'd say that you sound faster than you look with motorcycle carburetors. 
+
+
 ## 8. Tuning sessions
 Carb heads will shine here, we're tuning the carburetors for the best performance across the throttle range.
 
