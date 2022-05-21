@@ -2,13 +2,13 @@
 
 ---
 layout: post
-title:  "TITLE"
-date:   2022-05-15 00:00:00 -1000
+title:  "The Bike Carb Conversion Intro Guide"
+date:   2022-05-23 00:00:00 -1000
 categories: bike carb conversion
 ---
 My complete write-up on converting a car's fuel system from fuel injection to bike carburetors.
 
-~ Introduction: What is the point?
+## Introduction: Carbs are wonderfully imperfect 
 
 Bike carb conversion is not very common and doesn't seem to get too much good coverage. So why would you do it? I can only really think of two reasons why you should even go through with this:
 1. As a proof-of-concept on a shitty car you don't care about
@@ -18,9 +18,9 @@ The main thing benefit that comes from a carb conversion is the ability to reviv
 
 For this conversion to go well, there will be many failures, and finding the right solution to those failures will take more than what this guide can provide. The principles behind the setup are simple and provide air and fuel at the correct ratios, but it's not exactly the most popular swap in the world. This isn't engine swap complexity, but it can get close if you are building your own air/fuel system. So, as someone that has done a bike carburetor swap, stick with your current fuel system and only do a carb swap to the mainstream Webers, or other DCOE carbs. There are no specific positives that warrant a bike swap as your primary option. But why did it do it? Instant torque. A visceral intake sound. And it was a lot cheaper than doing an engine swap!
 
-But, I chose the bike carburetors for a reason: it looked like a pretty fun challenge!
+But, I chose the bike carburetors for a reason: it looked like a pretty fun challenge! There is a lot of diagnosis, time, money, and patience that went into this conversion. Since this is my first project car, I decided to go with this route to learn how to modify a low-power, fun car. Gaining the experience with basic systems and tools will prepare me for future projects to improve my diagnostic analysis and simply make better projects.  
 
-~~ Parts and materials for a bike carb 
+## Parts and materials for a bike carb 
 Here is a list of parts I can remember using. The number of combinations and solutions to the odds and ends of this project is limitless. Thus, use this as a guide instead of an end-all, be-all because you're definitely going to need more than what I have here.
 
 ### Essential parts
@@ -64,10 +64,11 @@ Here is a list of parts I can remember using. The number of combinations and sol
 - Respirator for vapor and particulate matter
 - Safety glasses
 - Fire extinguisher
-- General hand toolset
+- Basic hand tools (screwdrivers, sockets, wrenches)
+- Allen keys
 - Long Phillip head screwdriver
 - Long flat head screwdriver
-- Calipers
+- Digital or dial calipers
 - Smoke/leak detection system
 - Vacuum tester
 - Timing light
@@ -78,38 +79,40 @@ Here is a list of parts I can remember using. The number of combinations and sol
 - Wire strippers
 - Wire crimps
 - Wire crimp connectors
-- 18AWG and 12AWG wire kits, 3 or 4 colors would be nice 
+- 18AWG and 12AWG wire kits, 3 or 4 colors would is good enough
 - Voltmeter
 - Hose cutters or new, sharp, blades
 
 I would say a majority of these tools come pretty standard in a well-equipped DIY garage. You may need to buy or borrow other carburetor and tuning specific tools like:
 - A vacuum-mercury gauge
-- AFR gauge, 
+- AFR gauge
+- CO2 gauge
+- Fuel pressure gauge *get a good one, like from Aeromotive Inc.*
+- Smoke tester.
 
-CO2 gauge, fuel pressure gauge, and smoke tester.
+May 15, 2022: I'll edit this more when I can remember more tools.
 
-You need to think about this fuel system change like an undocumented engine swap. There are probably a handful of people in the world that have done the same setup and goals. The more common your car, the more common the setup, and the easier you will have it. If you have a hand in carburetors, that's great too!
+You need to think about this fuel system change like an undocumented engine swap. There are probably a handful of people in the world that have done the same setup and goals. The more common your car, the more common the setup, and the easier it will be.
 
-Others might have a different cam, new exhaust, etc. Think of this as a primer for your carb conversion. You need to understand tuning, carburetors, vacuum, heat management, plumbing, and electrical work. Once you remove the manufacturer's original design, you ruin the balance of drivability, power, and reliability. 
+Others build may have a different camshaft,  exhaust, or carburetor. This is brief guide with my own experience tied in and, as such, I cannot cover every iteration of carbs, cars, and other bolt-ons. Use this guide as a base and build your car from there. You will have to do all of the tuning, carburetor jetting, vacuum adjustments, heat management, plumbing, and electrical work. Many shops won't be willing to take on this work because it's very custom and very tedious. If you have a shop that can do it, I strongly recommend you think twice about their offer. Once you remove the manufacturer's original design, you ruin the balance of drivability, power, and reliability. Most projects will fail because they ruin the ability to drive it. Don't be that guy.
 
-May 15, 2022: There may be other tools I'm missing for now, but I'll edit this more when I can remember.
+I urge people to reconsider repairing their current system over replacing it because it gets very frustrating to convert and diagnose the whole system. But if you're foolish enough to go through with a bike carb conversion, welcome!
+
 
 ### The Conversion Roadmap
 
-Once you have officially determined that your current fuel system is too expensive or too difficult to replace, we can talk about carb conversions. I would still urge people to reconsider repairing their current system over replacing it because of the added complexity and limited support you will have. Unless you really want to get into the weeds of what it means to have a project car, steer clear.
-
 We can break the conversion into these major steps:
 1. Remove the current fuel injection system 
-2. Modify fuel lines inlet and return, replace or install pump, filters, gauges
-3. Modify air and vacuum, brake booster, and other vacuum references
+2. Adapt the fuel inlet and return, replace or install pump, filters, gauges to carbs
+3. Adapt air and vacuum, brake booster, and other vacuum references to carbs
 4. Install carburetors with custom flange and manifold
-5. Testing for air, vacuum, and fuel leaks
-6. Install auxiliaries, throttle cable, gauges, 
+5. Test for air, vacuum, and fuel leaks
+6. Install throttle cable 
 6. First start, first drive to 7-Eleven
 7. Tuning under general driving conditions
-8. Final adjustments
+8. Final adjustments* 
 
-This is the ideal sequence of events that would happen provided that everything goes smoothly! But, I'm willing to bet that this is NOT going to happen. If it does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with step 1.
+Ideally, this is how the project build would go. Pretty simple! But, this is a project car. You will break stuff. You will find other parts that need repairs. You will remember that you wanted to buy a new door handle, because it says Porsche. But if it all does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with step 1.
 
 ## 1. Remove the current fuel injection system
 
@@ -118,33 +121,55 @@ Removing the current system is pretty straightforward, but don't go ripping out 
 The basics of removing the current fueling system start from the fuel pump. You can assess what you need and don't need. I kept the in-tank fuel pump since that acted more as a sender from the fuel tank. In the original design of the Golf, two fuel pumps exist the in-tank one and the pressurized one outside of the pump. I removed the outside one and connected it to the fuel tank along with the accumulator. From the rear of the car, I also removed whichever fittings I could and temporarily removed the hoses to the fuel return. 
 
 At the time, I was not sure what to do with the fuel return, so I just capped it off and both ends, keeping it there just in case for the future.
+
 ## 2. Modify the fuel delivery system
 
-Starting from the tank, be positive you have a clean tank! Check the inside of the tank and make note if you have a fuel sending unit with the float and fuel pump, be sure they are in good working order. The float will measure the fuel in your tank and usually, it comes packaged with the fuel pump right next to it. In combination, this in-tank system pulls out the fuel from the fuel tank. However, the Mk1 has a different setup.
+Starting from the tank, be positive you have a clean tank! We want to check the in-tank fuel pump, float, and hoses are okay. If you're positive it's fine, you can skip this step. 
 
-There are TWO fuel pumps for the Mk1, one inside and one outside! Inside the tank is a lift pump that will lift fuel from the tank through the lines, the second pump is what pressurizes the fuel to 43.5 PSI~. It passes through a fuel accumulator to accumulate fuel, aiding the car for cold starts. This is like the function of a choke. The accumulator also helps to mitigate pulsations from the fuel pump itself.
+Check the inside of the tank and make note if you have a fuel sending unit with the float and fuel pump, be sure they are in good working order. The float will measure the fuel in your tank and usually, it comes packaged with the fuel pump right next to it. In combination, this in-tank system pulls out the fuel from the fuel tank. However, the Mk1 has a different setup.
 
-In my case, we replaced the second pump that pressurizes to 43.5 PSI. Replacing this pump made it simpler to hook up this system. As the car runs, it will only be able to generate up to 3 PSI of fuel, which is enough for the carbs that I am running. 3 PSI is not a rule-of-thumb for all carb conversion setups, it is what works for my specific carburetors that came from a 98 ZX6R. According to the manuals that I've found, it runs at about 3 PSI. The best thing to do is search for a replacement fuel pump for your specific bike carb source, this way you can get the most correct PSI possible.
+There are TWO fuel pumps for the Mk1, one inside and one outside! Inside the tank is a lift pump that will lift fuel from the tank through the lines, the second pump is what pressurizes the fuel to 43.5 PSI~. It passes through a fuel accumulator to accumulate fuel, aiding the car for cold starts. This is like the function of a choke. The accumulator also helps to mitigate pulsations from the fuel pump itself. In my case, I replaced the second pump that pressurizes the fuel to 43.5 PSI. Replacing this outer pump made it simpler. As the car runs, it will only be able to generate up to 3 PSI of fuel, which is enough for the 1998 ZX6R carbs that I am running. According to the manuals that I've found, it runs at about 3 PSI. If you're unsure, you can use a fuel bypass regulator that lets you adjust the PSI from 3-10 PSI.
 
-Once you solve the pumping setup, we need to filter the fuel. Most in-tank filters come with a screen that pulls the fuel. After the tank, you may install a filter after the fuel pump and in the engine bay. Test with a fuel pressure gauge so that it is not too restrictive, otherwise opt for a single filter. In my case, I added both filters. I am keeping an eye on this, but so far it seems okay. 
+Once you solve the pumping setup, we need to filter the fuel. Most in-tank filters come with a screen that pulls the fuel. I added my first fuel filter at the rear BEFORE the fuel pump. Then I installed a second fuel pump in the engine bay. Test with a fuel pressure gauge so that it is not too restrictive, otherwise opt for a single filter. If you're using a cheap fuel pressure gauge, it may give incorrect readings because of its construction. Read more from Aeromotive Inc. and their case for good and bad fuel pressure gauges. 
 
-To plumb the fuel line, there is the cheap way and the expensive way. To do it cheaply, stick with rubber fuel lines, hose clamps, and adapters. To do it properly, steel-braided fuel lines, spring clamps, and high-quality adapters with proper flares (like for AN fittings). Considering this is a low PSI application, it seemed fine to use the regular fuel line versus the stainless steel braided line. Run the lines from the tank to the carbs accounting for the fuel pump, filters, fuel pressure gauge, and maybe a charcoal canister. Most fuel pumps run on a 12V circuit, so test your circuit and fuse it. In the engine bay, consider heat management if your line is going to run near the exhaust manifold. Confirm all your lines, and pressurize your system for leaks by turning your system on and running your fuel pump.
+You have two options for plumbing: rubbe fuel lines and braided stainless steel. For this application and cheapness, I went with 5/16" rubber lines. It fit most places and I didn't need to use too many adapters to a different size.
+
+| Rubber Lines                 | Braided Stainless Steel           |
+| ---------------------------- | --------------------------------- |
+| Cheap                        | Expensive                         |
+| Worse abrasion resistance    | Better abrasion resistance        |
+| Secured with clamps          | Secured with AN Fittings          |
+| Low PSI ratings (Carburetor) | High PSI ratings (Fuel Injection) |
+
+Considering this is a low PSI application, it seemed fine to use the regular fuel line versus the stainless steel braided line. Run the lines from the tank to the carbs accounting for the fuel pump, filters, fuel pressure gauge, and maybe a charcoal canister. Almost all automotive fuel pumps run on a 12V circuit, so test your circuit, make a good ground, and fuse it with the correct fuse. In the engine bay, consider heat management if your line is going to run near the exhaust manifold. Confirm all your lines, and pressurize your system for leaks by turning your system on and running your fuel pump.
 
 If everything works as normal, congratulations, you assembled a fuel system! Not everyone can say that, now can they? Well, let's make sure it works, next up, are the air and vacuum systems.
 
 ## 3. Vacuum and Carburetors
 
-The vacuum system is simple but can get tedious and complex as the days go on. The work is not difficult, but it can become a pain to diagnose without the aid of a few tools. A smoke tester and a carburetor synchronizer tool.
+The vacuum system is simple but can get tedious and complex as the days go on. I highly recommend having a smoke tester and a carburetor synchronizer tool.
 
-With your car's original intake system gone, you need to trace from your intake holes to all other parts of your vehicle that utilize vacuum, think of your brake booster, charcoal emissions, vacuum-based systems like distributors, shift lights, even extending over to tachometers. There are many applications for the big air pump in your car and vacuum is a big part of making carburetors work well. Unfortunately, tracing a vacuum leak is quite difficult if you're not sure what happened. By using a smoke tester, you can push smoke through your vacuum system enough to see where a leak might occur! The smoke should reach the intake side of the fuel system, and if there are no more leaks, then you are all sealed from there. The hard part is getting there!
+With your car's original intake system gone, let's draft up our system. Two options: DIY and premade.
+
+### DIY Intake
+
+From the engine head, you will need to connect your carbs to those intake ports. You can either fabricate your own intake manifold or buy a premade one if you can find one. I bought my manifold from danstengineering.com. But the process of making an intake manifold can go like this.
+
+With the intake manifold removed, find out the dimensions of the mating surface where your manifold can bolt-on. You can also trace out the intake gasket for reference. Then, figure out the angle at which your intake runners will go from the manifold to your carburetors. You will connect those runners with fluoro lined hoses, they are a bit flexible, so you have a few milimeters of play, but not much. My hoses are 45mm ID hoses that came with the kit. You can draft these parts on paper, transfer them over to CAD and laser cut the mounting flange and leave room to weld on your intake tubing. For all of these parts, I'd recommend 5052 or 6061 aluminum, depending on your budget. For gaskets, repeat the CAD drawing of the mating surfaces and get those parts made of cork. You could do stainless steel, but it's added weight and may rust quicker than aluminum.    
+
+### Premade
+
+A premade kit with a manifold and carburetor set suited at the right angle will resolve most of the engineering issues, all you have to do is install them. Remember all other parts of your vehicle that utilize vacuum, think of your brake booster, charcoal emissions, vacuum-based systems like distributors, shift lights, and so on. There are many applications for the big air pump in your car we call the engine; unfortunately, vacuum needs to be completely sealed in order to be used well. Tracing a vacuum leak is quite difficult if you're not sure what happened. By using a smoke tester, you can push smoke through your vacuum system enough to see where a leak might occur! The smoke should reach the intake side of the fuel system, and if there are no more leaks, then you are all sealed from there. The hard part is getting there!
 
 This was the most challenging part of my whole build. I could not find a way to seal my vacuum leaks without spending a good chunk of money refinishing, surfacing, and making new parts. It was a pain...
 
-Attach your carburetors to your head with a custom manifold and flange suited to fit the orifices of your carbs, and adapt them with fuel-resistant, fluoro-lined hoses. Using good clamps will save you in the long run instead of the regular worm clamps. Worm clamps are the simplest and cheapest, but they don't seal as well and you can risk biting into your hoses if you go too far. Spring clamps are very good clamps but can be hard to use if they are going to be in tight spaces. The ones I recommend are T-Bolt clamps, functioning just like a worm clamp but with the security of a circular bite as good as a spring clamp.
+### Install
 
-Instead of biting from the torque point, the entire inner surface clamps onto the hose. Use the T-bolt clamps at the most crucial point: the intake manifold. In all other areas, use worm or spring clamps to secure the vacuum and fuel lines. Some vacuum lines probably won't need clamps if you're using barbed fittings to join them.  
+Attach your carburetors to your head with a custom manifold and flange suited to fit the orifices of your carbs, and adapt them with fuel-resistant, fluoro lined hoses. Using good clamps will save you in the long run instead of the regular worm clamps. Worm clamps can work, but they aren't perfect as you can risk biting into your hoses if you go too far. Spring clamps are very good clamps but can be hard to use if they are going to be in tight spaces. The ones I recommend are T-Bolt clamps, functioning just like a worm clamp but with the security of a circular clamp like a spring clamp. Instead of biting from the torque point, the entire inner surface clamps onto the hose. 
 
-Once the entire system is nearly complete. We can almost start the car!
+Use the T-bolt clamps at the most crucial point: the intake manifold. In all other areas, use worm or spring clamps to secure the vacuum and fuel lines. Some vacuum lines probably won't need clamps if you're using barbed fittings to join them.  
+
+Once the entire system is hooked up, we can almost start the car!
 
 ## 5. Testing! Checks before the first start.
 
@@ -164,7 +189,6 @@ FINALLY.
 Driving your project car on the block is a validation that your car still works after making so many changes to the car. Start the car and let it warm up to give it the best chance of surviving your drive. Don't forget about your brakes and lights, the vacuum system is connected to your brake booster right? It's good that you have a working engine, but safety becomes more important after making these modifications. If everything checks out, roll out of your driveway and see if you can make it back. If you're feeling brave, take it on a public road. And if you're really brave, go to the drive-thru.
 
 I went to the gas station for my first trip since I really needed to fill up some gas to sub out the old gas. Get a feel for the suspension, brakes, mobility, and throttle response. See how the car changed. You could be faster too! But I'd say that you sound faster than you look with motorcycle carburetors. 
-
 
 ## 8. Tuning sessions
 Carb heads will shine here, we're tuning the carburetors for the best performance across the throttle range.
@@ -189,11 +213,13 @@ And these are the baseline targets we want to aim for:
 - Wide Open Throttle: 12.5 AFR
 - Acceleration 12 AFR
 
-During idle, 14.7 would be great, but for a ex-choke setup, it might be a little too lean for the car on cold start resulting in longer starts. 13.5 will give you more leeway with the richer mixture. After getting the car warmed up, cruising at 14 reaches a balance between efficiency and power. Average power and average efficiency. This is where we will spend most of our time driving anyways, so this is our next critical circuit. Following cruising, Wide Open Throttle or WOT is our next focus. We will spend far less time in WOT, so tune to your preference. For solid, max power at WOT, 12.5 will suffice. Finally, during acceleration, 12 AFR will provide us with the highest amount of torque and power.
+During idle, 14.7 would be great, but for an ex-choke setup, it might be a little too lean for the car on a cold start resulting in longer starts. 13.5 will give you more leeway with the richer mixture. After getting the car warmed up, cruising at 14 reaches a balance between efficiency and power. Average power and average efficiency. This is where we will spend most of our time driving anyways, so this is our next critical circuit. Following cruising, Wide Open Throttle or WOT is our next focus. We will spend far less time in WOT, so tune to your preference. For solid, max power at WOT, 12.5 will suffice. Finally, during acceleration, 12 AFR will provide us with the highest amount of torque and power.
 
 You may want to tune for drivability or power, so adjust it as necessary. However, tune for reliability first. We need to establish a proper baseline for the car before going crazy. With all this talk about the baseline, how do you actually get there?
 
-The process of tuning your carbs can go two ways: spark plug chopping and using an AFR gauge. I highly, highly recommend using an AFR gauge.
+The process of tuning your carbs can go two ways: (spark) plug chops and AFR gauges. Of the two, I recommend buying an AFR gauge.
+
+#### Plug chops
 
 Checking your spark plugs every so often on a drive up and down the street gets old really quick when trying to tune your carbs. The process starts with fresh, clean spark plugs and a drivable car. Drive up and down the street for about 5-10 minutes and promptly after going for a drive, stop and kill the car, and immediately check your spark plugs. All of them. You need to inspect and compare each cylinder's spark plugs and determine if the mixture is too lean, too rich, or just enough. After driving, you make some adjustments based on the results and then you start all over again. Drive. Stop. Check. Adjust. It's a very tedious and time-consuming task that most people do not have the time and patience for. However, it is not totally useless.
 
@@ -201,17 +227,15 @@ During an annual or semi-annual maintenance check with your car, you may pull th
 
 Checking spark plugs is a very tedious method of tuning but it is still something worth keeping in your back pocket during diagnosis! Use it to aid your findings, most people do not have the skill and expertise to simply use spark plugs to tune carburetors. 
 
-Now, let's talk about the AFR gauge.
+#### Air Fuel Ratio (AFR) Gauge 
 
 A wideband AFR gauge is comprised of an O2 sensor and a gauge measuring small changes in voltage. The O2 sensor is different than your normal O2 sensor on factory cars. Factory sensors have a limited range of values it can measure. All it will say is if you're at ~14.7 or not! The factory's goal is to adhere to the 14.7 AFR as closely as possible throughout the RPM range for efficiency, power, and adherance to emissions. That is not the tuner's goal. Wideband O2 sensors are able to measure and output values outside of the 14.7 AFR range. This is what we want to see and how we want to tune.
 
-O2 sensors work like this: the car provides it energy (5V usually) to heat up its sensor. This sensor  measures the oxygen levels wherever it is installed in your exhaust system. The sensor will produce a proportional amount of electrical output and that output is finally inputted to our gauge which will spew out some number that makes sense to us. 
+O2 sensors work like this: the car provides its energy (5V usually) to heat up its sensor. This sensor measures the oxygen levels wherever it is installed in your exhaust system. The sensor will produce a proportional amount of electrical output and that output is finally inputted to our gauge which will spew out some number that makes sense to us. 
 
 ### Carb base settings
 
-Carburetors will come with baseline setting for your float, idle adjustment screw, needle jet, and main jet. Set your carb to these settings. If you bought your carbs used or came off a motorcycle, we can assume that it should retain the same jets, screw, and float settings. However, check before using them. To find these settings, search up the factory manual or factory settings and you should come close to finding them. If you STILL can't find any settings, just use the jets that are in there and hope that it can run in your car :)
-
-
+Carburetors will come with a baseline setting for your float, idle adjustment screw, needle jet, and main jet. Set your carb to these settings. If you bought your carbs used or came off a motorcycle, we can assume that it should retain the same jets, screw, and float settings. However, check before using them. To find these settings, search up the factory manual or factory settings and you should come close to finding them. If you STILL can't find any settings, just use the jets that are in there and hope that it can run in your car :)
 
 ### Tuning Process
 
@@ -255,35 +279,40 @@ This is my process of going through my whole car... and it's as tedious as it so
 
 ## 10. Troubleshooting
 
-We have to start with a few assumptions before diagnosing. Don't make too any changes before knowing exactly where the baseline is. Ask yourself:
+We have to start with a few assumptions before diagnosing. Don't make too many changes before knowing exactly where the baseline is. Ask yourself:
 - Electrical issues? Is my car properly grounded? Is my battery charged? Is my alternator okay? Am I getting spark?
 - Do I have air leaks?
 - Do I have fuel leaks?
 - Do I have compression? 
 - Is my engine timed properly?
 
-This goes inline with the five elements needed to start and keep a car running:
-- Spark 
-- Air
-- Fuel
-- Compression
-- Timing
+This goes in line with the five elements needed to start and keep a car running:
+1. Spark 
+2. Air
+3. Fuel
+4. Compression
+5. Timing
 
 Further down the line when we want to keep the car driving healthy, also ask yourself:
 - Is my engine healthy? Compression, valves, timing, are they all ok?
 - Have enough fluids? Oil, coolant, gas
 
 Is there a hissing noise when you use the starter?
-- Check for vacuum leaks. The hissing could be the air coming in through a small hole or leak. This is known as unmetered air. While we do want more air for the engine to create more power, unmetered air is unaccounted for and will through your AFR out of balance. Let's start the car on a good note.
+- **Check for vacuum leaks.** The hissing could be the air coming in through a small hole or leak. This is known as unmetered air. While we do want more air for the engine to create more power, unmetered air is unaccounted for and will through your AFR out of balance. Let's start the car on a good note.
 
 Car starts, then die, then starts again?
-- This could be because of several issues. Fueling, air leaks, alternator failing, cold engine, etc. You need to start broader and look at the five elements.
+- This could be because of several issues. Fueling, air leaks, alternator failing, cold engine, etc. You need to start broader and look at the five elements. Narrow down which system is failing then reference those issues as your new starting point.
 
 Cranking, but takes a while to start the car? 
-- Your AFR mixture is too lean. Your engine is cold and needs more fuel to start a combustion cycle. Let the car cool down then try to start the car with starter fluid. If it starts normally, let the car warm up, then adjust your AFR. 
+- To cold start a carb engine, floor the gas pedal for 3-5 seconds on the first crank, this will get more fuel into the bowls to start the car. As the starter engages, the vacuum will suck up the air-fuel mixture, starting the car.
+- **Fuel pressure is too low.** Make sure your fuel pump is working as intended. The pump should run for 3 seconds when turning on the car, this is also known as priming. If you don't hear it, check your fuse, relay, and physical connections. Clogged fuel filters, bad gauges, and hose kinks may diminish your fuel pressure. 
+- **Fuel flow is too low.** While unlikely, make sure that the aftermarket fuel pump you chose it suitable to flow enough fuel for your car. Check out https://deatschwerks.com/pages/fuel-pump-calculator. For gasoline engines, take your horsepower (HP) and divide it by 0.6. 
+- **Your AFR mixture is too lean.** Your engine is cold and needs more fuel to start a combustion cycle. Let the car cool down then try to start the car with starter fluid. If it starts normally, let the car warm up, then adjust your AFR.
 
-After letting the car warm up, I turn off the car, but the engine violenty spins over again before stopping completely!
-- This is called dieseling. Diesel engines work with heat and compression and do not use spark for ignition. When you turn off the car, there is leftover air and fuel in the combustion chambers, hence a short-term turnover until the engine depletes the leftover fuel. It's not only dangerous and unhealthy for your engine, but it's very annoying.
+After letting the car warm up, I turn off the car, but the engine violently spins over again before stopping completely!
+- **This is called dieseling.** Diesel engines work with heat and compression and do not use spark for ignition. When you turn off the car, there is leftover air and fuel in the combustion chambers, hence a short-term turnover until the engine depletes the leftover fuel. It's not only dangerous and unhealthy for your engine, but it's very annoying.
+
+
 
 Challenge your assumptions, challenge your answers. Every setup is different in this conversion and you are the most aware of what changes were made to the car. The problem can always be solved with enough money.
 
