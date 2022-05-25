@@ -1,5 +1,3 @@
- 
-
 ---
 layout: post
 title:  "The Bike Carb Conversion Intro Guide"
@@ -112,7 +110,23 @@ We can break the conversion into these major steps:
 7. Tuning under general driving conditions
 8. Final adjustments* 
 
-Ideally, this is how the project build would go. Pretty simple! But, this is a project car. You will break stuff. You will find other parts that need repairs. You will remember that you wanted to buy a new door handle, because it says Porsche. But if it all does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with step 1.
+Ideally, this is how the project build would go. Pretty simple! But, this is a project car. You will break stuff. You will find other parts that need repairs. You will remember that you wanted to buy a new door handle, because it says Porsche. But if it all does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with planning.
+
+## 0. Drafting
+
+I highly endorse drafting your design before making any changes.
+
+Look at your current fuel system, vacuum, electrical, and mechanical components that will be removed or modified. Research your car's systems and find diagram to minimize the amount of surprise trips to the parts store. Draw each system separtely on a sheet of paper and go through it with in-person with your car. If you are adding electrical systems, be mindful of the correct fuses and possible relays you want to run. Finally, any mechanical connections such as your throttle cable, spring adjustments on the carbs, fuel line routing, wire sheathing, heatshields, mounts, cables, brackets, etc. We cannot account for every little thing, but this will simplify your installation and diagnosis if you have it on paper.
+
+Here are my plans that I made regarding my fuel system, vacuum system, electrical components, and notes on the mechanical components.
+
+### Fuel System Plan
+
+### Vacuum System Plan
+
+### Electrical Components Plan
+
+### Mechanical Components Plan
 
 ## 1. Remove the current fuel injection system
 
@@ -126,13 +140,19 @@ At the time, I was not sure what to do with the fuel return, so I just capped it
 
 Starting from the tank, be positive you have a clean tank! We want to check the in-tank fuel pump, float, and hoses are okay. If you're positive it's fine, you can skip this step. 
 
-Check the inside of the tank and make note if you have a fuel sending unit with the float and fuel pump, be sure they are in good working order. The float will measure the fuel in your tank and usually, it comes packaged with the fuel pump right next to it. In combination, this in-tank system pulls out the fuel from the fuel tank. However, the Mk1 has a different setup.
+### The In-Tank Fuel Pump
 
-There are TWO fuel pumps for the Mk1, one inside and one outside! Inside the tank is a lift pump that will lift fuel from the tank through the lines, the second pump is what pressurizes the fuel to 43.5 PSI~. It passes through a fuel accumulator to accumulate fuel, aiding the car for cold starts. This is like the function of a choke. The accumulator also helps to mitigate pulsations from the fuel pump itself. In my case, I replaced the second pump that pressurizes the fuel to 43.5 PSI. Replacing this outer pump made it simpler. As the car runs, it will only be able to generate up to 3 PSI of fuel, which is enough for the 1998 ZX6R carbs that I am running. According to the manuals that I've found, it runs at about 3 PSI. If you're unsure, you can use a fuel bypass regulator that lets you adjust the PSI from 3-10 PSI.
+I checked my fuel tank to see if there was any debris in it... and there was a bit, but not too much that I'd be concerned with. What we really want to do is make sure that NONE of that debris makes it to our fuel pump. I made that mistake by forgetting to put the strainer on my fuel pump, not too long after that the fuel pump was no longer a pump. With debris lodged in the pump, I lost fuel pressure and got a major headache trying to resolve the issue, ignoring the part that I just replaced. 
 
-Once you solve the pumping setup, we need to filter the fuel. Most in-tank filters come with a screen that pulls the fuel. I added my first fuel filter at the rear BEFORE the fuel pump. Then I installed a second fuel pump in the engine bay. Test with a fuel pressure gauge so that it is not too restrictive, otherwise opt for a single filter. If you're using a cheap fuel pressure gauge, it may give incorrect readings because of its construction. Read more from Aeromotive Inc. and their case for good and bad fuel pressure gauges. 
+Your in-tank fuel pump is comprised two components: a fuel pump, sometimes called a transfer pump, and a fuel sending unit. The fuel pump obviously sucks up fuel from the tank and pumps it through your lines. The fuel sending unit sends a certain voltage depending on the level of the fuel. When there is a lot of fuel, the float will float higher in the fuel tank, changing its arm position to send an electric signal saying fuel is high. When there is little fuel, the float will float lower, shifting its arm position to send a weaker electrical signal saying that fuel is low.
 
-You have two options for plumbing: rubbe fuel lines and braided stainless steel. For this application and cheapness, I went with 5/16" rubber lines. It fit most places and I didn't need to use too many adapters to a different size.
+Confirm that all of these parts work normally, tighten your clams and move on.
+
+### Main Fuel Pump
+
+If you follow the feed line out of the fuel tank, you will get to the car's original fuel pump inlet. We are going to be removing and replacing it. While you can leave it on and install a fuel pressure regulator, I replaced it with a low PSI fuel pump, around 2-3 PSI, to simplify the design. At this point we have other considerations, do you want to replace all the rubber lines with new rubber or braided stainless steel?
+
+Since I'm cheap, I went with 5/16" rubber lines. It fit most places and I didn't need to use too many adapters to a different size. But here's a quick comparision:
 
 | Rubber Lines                 | Braided Stainless Steel           |
 | ---------------------------- | --------------------------------- |
@@ -141,11 +161,17 @@ You have two options for plumbing: rubbe fuel lines and braided stainless steel.
 | Secured with clamps          | Secured with AN Fittings          |
 | Low PSI ratings (Carburetor) | High PSI ratings (Fuel Injection) |
 
-Considering this is a low PSI application, it seemed fine to use the regular fuel line versus the stainless steel braided line. Run the lines from the tank to the carbs accounting for the fuel pump, filters, fuel pressure gauge, and maybe a charcoal canister. Almost all automotive fuel pumps run on a 12V circuit, so test your circuit, make a good ground, and fuse it with the correct fuse. In the engine bay, consider heat management if your line is going to run near the exhaust manifold. Confirm all your lines, and pressurize your system for leaks by turning your system on and running your fuel pump.
+Other than the in-tank fuel pump, this is a low PSI application, so it seemed fine to use the regular fuel line versus the stainless steel braided line. Just make sure that you secured all the fuel lines VERY well. 
+
+Add your filter before the fuel pump, install the fuel pump, and fasten it to a bracket. Run the fuel lines and tighten all of your clamps.
+
+### Engine bay: filter, gauge, and carburetors
+
+Next, follow the factory fuel feed line from the pump to the engine bay. Attach another line, a pressure gauge, fuel filter, and the final line that leads to the fuel inlet for the carburetors. Be VERY mindful if the lines are running near hot areas like the exhaust manifold to prevent heat soak. If necessary, sheathe the lines with heat protection. Confirm all your clamps are sealed and pressurize your system for leaks by turning your car on and running your fuel pump.
 
 If everything works as normal, congratulations, you assembled a fuel system! Not everyone can say that, now can they? Well, let's make sure it works, next up, are the air and vacuum systems.
 
-## 3. Vacuum and Carburetors
+## 3. Vacuum System
 
 The vacuum system is simple but can get tedious and complex as the days go on. I highly recommend having a smoke tester and a carburetor synchronizer tool.
 
@@ -155,21 +181,37 @@ With your car's original intake system gone, let's draft up our system. Two opti
 
 From the engine head, you will need to connect your carbs to those intake ports. You can either fabricate your own intake manifold or buy a premade one if you can find one. I bought my manifold from danstengineering.com. But the process of making an intake manifold can go like this.
 
-With the intake manifold removed, find out the dimensions of the mating surface where your manifold can bolt-on. You can also trace out the intake gasket for reference. Then, figure out the angle at which your intake runners will go from the manifold to your carburetors. You will connect those runners with fluoro lined hoses, they are a bit flexible, so you have a few milimeters of play, but not much. My hoses are 45mm ID hoses that came with the kit. You can draft these parts on paper, transfer them over to CAD and laser cut the mounting flange and leave room to weld on your intake tubing. For all of these parts, I'd recommend 5052 or 6061 aluminum, depending on your budget. For gaskets, repeat the CAD drawing of the mating surfaces and get those parts made of cork. You could do stainless steel, but it's added weight and may rust quicker than aluminum.    
+Remove the original intake manifold. Measure and draft the intake manifold's mating surface to create the flange that will bolt to the head. You can also take the original gasket and trace that out for the bolt pattern of your new flange. It can be an integrated flange to directly to the carbs, or a two-part flange. A two-part flange would have one piece bolt to the head, one piece attached to the carbs, and you fasten those together to create one piece. Personally, I'm not sure which design I would go with. I would have simplified and went with the all-in-one piece, but the two-piece may be easier to service. It also means two times the fasteners and gaskets. Anyways...
 
-### Premade
+With the mating surface drafted, create your flanged surface and draft out how long your intake runners will be. 
 
-A premade kit with a manifold and carburetor set suited at the right angle will resolve most of the engineering issues, all you have to do is install them. Remember all other parts of your vehicle that utilize vacuum, think of your brake booster, charcoal emissions, vacuum-based systems like distributors, shift lights, and so on. There are many applications for the big air pump in your car we call the engine; unfortunately, vacuum needs to be completely sealed in order to be used well. Tracing a vacuum leak is quite difficult if you're not sure what happened. By using a smoke tester, you can push smoke through your vacuum system enough to see where a leak might occur! The smoke should reach the intake side of the fuel system, and if there are no more leaks, then you are all sealed from there. The hard part is getting there!
+Now, there is a science to the length of intake runners with air flow (CFM) calculations and finding the optimum length from butterfly valve to engine intake port, but I'm not covering that here. If you are going down this route, keep in mind your clearances, material thickness, and your engine's CFMs. 
 
-This was the most challenging part of my whole build. I could not find a way to seal my vacuum leaks without spending a good chunk of money refinishing, surfacing, and making new parts. It was a pain...
+If you don't really care for calculating for the optimum length, just get some tubing and make sure it fits. After all, these aren't going to be race engines, so I'm not concerned with peak performance. As far as angle, it seems negligent from what I've read on the forums, but I can't touch on it further.
 
-### Install
+Next, connect those runners with fluoro lined hoses. This special rubber hose is specifically made for fuel and can be quite pricey. Make sure the ID works for the size of tubing you will use. My hoses are 45mm ID hoses that came with the kit. Optionally, you can include ports for intake vacuum to calculate, measure, and balance the vacuum between each carburetor later down the line. Taking vacuum from the four intake cylinders and combining it into one hose also allows you to connect it to the vacuum booster or other vacuum-based applications.
+
+#### Materials 
+
+For all of these parts, I'd recommend 5052 or 6061 aluminum, depending on your budget. For gaskets, repeat the CAD drawing of the mating surfaces and get those parts made of cork. You could do stainless steel, but it's added weight and may rust quicker than aluminum. For the intake hose, stick with fluoro-lined hoses and for vacuum hoses, any silicone or rubber hose for vacuum will do. If you are doing a DIY build, buy extras, test, draft, and test again! If you think you're saving money making it on your own, think again!
+
+Keep in mind these components will be getting hot so be mindful of heat shields, sheathing, and buy good quality parts.
+
+### Premade Kit
+
+A premade kit with a manifold and carburetor set will resolve most of the engineering issues, all you have to do is install them! I can't give specific notes here other than go through the install slowly and understand the engineering design of it all. 
+
+### Testing
+
+This was the most challenging part of my whole build. I could not find a way to seal my vacuum leaks without spending a good chunk of money refinishing, surfacing, and making new parts.
 
 Attach your carburetors to your head with a custom manifold and flange suited to fit the orifices of your carbs, and adapt them with fuel-resistant, fluoro lined hoses. Using good clamps will save you in the long run instead of the regular worm clamps. Worm clamps can work, but they aren't perfect as you can risk biting into your hoses if you go too far. Spring clamps are very good clamps but can be hard to use if they are going to be in tight spaces. The ones I recommend are T-Bolt clamps, functioning just like a worm clamp but with the security of a circular clamp like a spring clamp. Instead of biting from the torque point, the entire inner surface clamps onto the hose. 
 
 Use the T-bolt clamps at the most crucial point: the intake manifold. In all other areas, use worm or spring clamps to secure the vacuum and fuel lines. Some vacuum lines probably won't need clamps if you're using barbed fittings to join them.  
 
 Once the entire system is hooked up, we can almost start the car!
+
+Remember all other parts of your vehicle that utilize vacuum, think of your brake booster, charcoal emissions, vacuum-based systems like distributors, shift lights, and so on. There are many applications for the big air pump in your car we call the engine; unfortunately, vacuum needs to be completely sealed in order to be used well. Tracing a vacuum leak is quite difficult if you're not sure what happened. By using a smoke tester, you can push smoke through your vacuum system enough to see where a leak might occur! The smoke should reach the intake side of the fuel system, and if there are no more leaks, then you are all sealed from there. The hard part is getting there!
 
 ## 5. Testing! Checks before the first start.
 
