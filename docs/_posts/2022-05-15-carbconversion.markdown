@@ -4,9 +4,26 @@ title:  "The Bike Carb Conversion Intro Guide"
 date:   2022-05-23 00:00:00 -1000
 categories: bike carb conversion
 ---
-My complete write-up on converting a car's fuel system from fuel injection to bike carburetors.
+Carburetors why? Because VRRRRRRRRRRRrrrr.
 
+### The Conversion Roadmap
 
+We can break the conversion into these major steps:
+
+- Introduction and Parts List
+0. [Drafting]()
+1. [Remove the current fuel injection system]()
+2. [Adapt the fuel inlet and return, replace or install a pump, filters, and gauges to carbs]()
+3. [Install the new system]()
+4. [Hook up parts of the old system]()
+5. [Testing! Checks before the first start.]()
+6. [Install throttle cable]()
+7. [First drive to the gas station]()
+8. [Tuning sessions]()
+9. [Final adjustments]()
+10. [Troubleshooting]()
+
+Ideally, this is how the project build would go. Pretty simple! But, this is a project car. You will break stuff. You will find other parts that need repairs. You will remember that you wanted to buy a new door handle because it says, Porsche. But if it all does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with planning.
 
 ## Introduction: Carbs are wonderfully imperfect 
 
@@ -99,23 +116,6 @@ You need to think about this fuel system change like an undocumented engine swap
 Other builds may have a different camshaft,  exhaust, or carburetor. This is a brief guide with my own experience tied in and, as such, I cannot cover every iteration of carbs, chassis, and other bolt-ons. Use this guide as a base and build your car from there. You will have to do all of the tuning, carburetor jetting, vacuum adjustments, heat management, plumbing, and electrical work. Many shops won't be willing to take on this work because it's very custom and very tedious. If you have a shop that can do it, I strongly recommend you think twice about their offer. Once you remove the manufacturer's original design, you ruin the balance of drivability, power, and reliability. Most projects will fail because they ruin the ability to drive them. Don't be that guy.
 
 I urge people to reconsider repairing their current system over replacing it because it gets very frustrating to convert and diagnose the whole system. But if you're foolish enough to go through with a bike carb conversion, welcome!
-
-
-### The Conversion Roadmap
-
-We can break the conversion into these major steps:
-1. [Remove the current fuel injection system]()
-2. [Adapt the fuel inlet and return, replace or install a pump, filters, and gauges to carbs]()
-3. [Install the new system]()
-4. [Hook up parts of the old system]()
-5. [Testing! Checks before the first start.]()
-6. [Install throttle cable]()
-7. [First drive to the gas station]()
-8. [Tuning sessions]()
-9. [Final adjustments]()
-10.[Troubleshooting]()
-
-Ideally, this is how the project build would go. Pretty simple! But, this is a project car. You will break stuff. You will find other parts that need repairs. You will remember that you wanted to buy a new door handle because it says, Porsche. But if it all does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with planning.
 
 ## 0. Drafting
 
