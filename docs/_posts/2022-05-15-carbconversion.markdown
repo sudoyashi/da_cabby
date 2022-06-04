@@ -11,17 +11,17 @@ Carburetors why? Because VRRRRRRRRRRRrrrr.
 We can break the conversion into these major steps:
 
 - Introduction and Parts List
-0. [Drafting]()
-1. [Remove the current fuel injection system]()
-2. [Adapt the fuel inlet and return, replace or install a pump, filters, and gauges to carbs]()
-3. [Install the new system]()
-4. [Hook up parts of the old system]()
-5. [Testing! Checks before the first start.]()
-6. [Install throttle cable]()
-7. [First drive to the gas station]()
-8. [Tuning sessions]()
-9. [Final adjustments]()
-10. [Troubleshooting]()
+0. [Drafting](#0-drafting)
+1. [Remove the current fuel injection system](#1-remove-the-current-fuel-injection-system)
+2. [Adapt the fuel inlet and return, replace or install a pump, filters, and gauges to carbs](#2-modify-the-fuel-delivery-system)
+3. [Install the new system](#3-install-the-new-system)
+4. [Hook up parts of the old system](#4-hook-up-parts-of-the-old-system)
+5. [Testing! Checks before the first start.](#5-testing-checks-before-the-first-start)
+6. [Install throttle cable](#6-install-throttle-cable)
+7. [First drive to the gas station](#7-first-drive-to-the-gas-station)
+8. [Tuning sessions](#8-tuning-sessions)
+9. [Final adjustments](#9-final-adjustments)
+10. [Troubleshooting](#10-troubleshooting)
 
 Ideally, this is how the project build would go. Pretty simple! But, this is a project car. You will break stuff. You will find other parts that need repairs. You will remember that you wanted to buy a new door handle because it says, Porsche. But if it all does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with planning.
 
