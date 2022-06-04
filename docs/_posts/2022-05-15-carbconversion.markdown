@@ -12,9 +12,9 @@ Bike carb conversion is not very common and doesn't seem to get too much good co
 1. As a proof-of-concept on a shitty car you don't care about
 2. Another way to revive your car's failing fuel system
 
-The main thing benefit that comes from a carb conversion is the ability to revive a dying fuel system. Carburetors are mechanical devices and you got both the pros and cons of using them. They are analog devices, meaning you have to adjust every single detail to perform at its best. The simplicity of a carburetor makes it easy to service so long as your problem diagnosis is correct. Working on carbs is easy, but figuring out what to fix is the challenge.
+The main thing benefit that comes from a carb conversion is the ability to revive a dying fuel system. Carburetors are mechanical devices, so you got both the pros and cons of analog devices. For one thing, they are simple and that's great for someone who wants to start doing some tinkering on their own. But as simple as they are, it also means you have to be able to adjust every single detail of the carburetor to perform at its best. Working on carbs is easy, but figuring out what to fix is the challenge.
 
-For this conversion to go well, there will be many failures, and finding the right solution to those failures will take more than what this guide can provide. The principles behind the setup are simple and provide air and fuel at the correct ratios, but it's not exactly the most popular swap in the world. This isn't engine swap complexity, but it can get close if you are building your own air/fuel system. So, as someone that has done a bike carburetor swap, stick with your current fuel system and only do a carb swap to the mainstream Webers, or other DCOE carbs. There are no specific positives that warrant a bike swap as your primary option. But why did it do it? Instant torque. A visceral intake sound. And it was a lot cheaper than doing an engine swap!
+For this conversion to go well, there will be many failures, and finding the right solution to those failures will take more than what this guide can provide. The principles behind the setup are like any other internal combustion engine, provide air and fuel at the correct ratio to combust. The big problem with this swap is it's not exactly the most popular swap in the world. This isn't engine swap complexity, but it can get close if you are building your own air/fuel system. So, as someone that has done a bike carburetor swap, stick with your current fuel system and only do a carb swap to the mainstream Webers, or other DCOE carbs. There are no specific positives that warrant a bike swap as your primary option. But why did it do it? Instant torque. A visceral intake sound. And it was a lot cheaper than doing an engine swap!
 
 But, I chose the bike carburetors for a reason: it looked like a pretty fun challenge! There is a lot of diagnosis, time, money, and patience that went into this conversion. Since this is my first project car, I decided to go with this route to learn how to modify a low-power, fun car. Gaining the experience with basic systems and tools will prepare me for future projects to improve my diagnostic analysis and simply make better projects.  
 
@@ -339,21 +339,22 @@ Further down the line when we want to keep the car driving healthy, also ask you
 - Is my engine healthy? Compression, valves, timing, are they all ok?
 - Have enough fluids? Oil, coolant, gas
 
-Is there a hissing noise when you use the starter?
+### Is there a hissing noise when you use the starter?
 - **Check for vacuum leaks.** The hissing could be the air coming in through a small hole or leak. This is known as unmetered air. While we do want more air for the engine to create more power, unmetered air is unaccounted for and will through your AFR out of balance. Let's start the car on a good note.
 
-Car starts, then die, then starts again?
+### Car starts, then die, then starts again?
 - This could be because of several issues. Fueling, air leaks, alternator failing, cold engine, etc. You need to start broader and look at the five elements. Narrow down which system is failing then reference those issues as your new starting point.
 
-Cranking, but takes a while to start the car? 
+### Cranking, but takes a while to start the car? 
 - To cold start a carb engine, floor the gas pedal for 3-5 seconds on the first crank, this will get more fuel into the bowls to start the car. As the starter engages, the vacuum will suck up the air-fuel mixture, starting the car.
 - **Fuel pressure is too low.** Make sure your fuel pump is working as intended. The pump should run for 3 seconds when turning on the car, this is also known as priming. If you don't hear it, check your fuse, relay, and physical connections. Clogged fuel filters, bad gauges, and hose kinks may diminish your fuel pressure. 
 - **Fuel flow is too low.** While unlikely, make sure that the aftermarket fuel pump you chose it suitable to flow enough fuel for your car. Check out https://deatschwerks.com/pages/fuel-pump-calculator. For gasoline engines, take your horsepower (HP) and divide it by 0.6. 
-- **Your AFR mixture is too lean.** Your engine is cold and needs more fuel to start a combustion cycle. Let the car cool down then try to start the car with starter fluid. If it starts normally, let the car warm up, then adjust your AFR.
+- **Your AFR mixture is too lean.** Your engine is cold and needs more fuel to start a combustion cycle. Let the car cool down then try to start the car with starter fluid. If it starts normally, let the car warm up, then adjust your AFR. This can also be because of a vacuum leak. Again check your hoses, vacuum advance, brake booster, etc.
 
-After letting the car warm up, I turn off the car, but the engine violently spins over again before stopping completely!
-- **This is called dieseling.** Diesel engines work with heat and compression and do not use spark for ignition. When you turn off the car, there is leftover air and fuel in the combustion chambers, hence a short-term turnover until the engine depletes the leftover fuel. It's not only dangerous and unhealthy for your engine, but it's very annoying.
+### After letting the car warm up, I turn off the car, but the engine violently spins over again before stopping completely!
+- **This is called dieseling.** Diesel engines work with heat and compression and do not use spark for ignition. When you turn off the car, there is leftover air and fuel in the combustion chambers, hence a short-term turnover until the engine depletes the leftover fuel. It's not only dangerous and unhealthy for your engine, but it's very annoying. On a normal system, if this is a naturally aspirated car you may have a vacuum leak. I'm unfamiliar with high power systems such as turbocharged, supercharged, blow-thru carb designs so I can't help there :/
 
+If you're still having trouble, take a couple days off! Honestly, you need a fresh pair of eyes if you've been staring at the same setup for 5 or 6 days straight, everyday after work, exhausting yourself to wits end. I've been there and if you're out there on your own, you aren't alone. Everyone has a "tuning" issue, as broad as it is, but we're all in the shitty money pit together!
 
 
 Challenge your assumptions, challenge your answers. Every setup is different in this conversion and you are the most aware of what changes were made to the car. The problem can always be solved with enough money.
