@@ -6,9 +6,13 @@ categories: bike carb conversion
 ---
 My complete write-up on converting a car's fuel system from fuel injection to bike carburetors.
 
+
+
 ## Introduction: Carbs are wonderfully imperfect 
 
-Bike carb conversion is not very common and doesn't seem to get too much good coverage. So why would you do it? I can only really think of two reasons why you should even go through with this:
+![Carb Conversion](/da_cabby/assets/img/carbconversion-1.jpg)
+
+A bike carb conversion is not very common and doesn't seem to get too much good coverage. So why would you do it? I can only really think of two reasons why you should even go through with this:
 1. As a proof-of-concept on a shitty car you don't care about
 2. Another way to revive your car's failing fuel system
 
@@ -169,6 +173,8 @@ Add your filter before the fuel pump, install the fuel pump, and fasten it to a 
 
 ### Engine bay: filter, gauge, and carburetors
 
+![Carb Conversion](/da_cabby/assets/img/engine.JPG)
+
 Next, follow the factory fuel feed line from the pump to the engine bay. Attach another line, a pressure gauge, fuel filter, and the final line that leads to the fuel inlet for the carburetors. Be VERY mindful of any lines that are running near hot areas like the exhaust manifold to prevent heat soak. If necessary, sheathe the lines with heat protection. Confirm all your clamps are sealed and pressurize your system for leaks by turning your car on and running your fuel pump.
 
 If everything works as normal, congratulations, you assembled a fuel system! Not everyone can say that, now can they? Well, let's make sure it works, next up, are the air and vacuum systems.
@@ -180,6 +186,8 @@ The vacuum system is simple but can get tedious and complex as the days go on. I
 With your car's original intake system gone, let's draft up our system. Two options: DIY and premade.
 
 ### DIY Intake
+
+![CAD Draft](/da_cabby/assets/img/cad-intakezx6r.png)
 
 From the engine head, you will need to connect your carbs to those intake ports. You can either fabricate your own intake manifold or buy a premade one if you can find one. I bought my manifold from danstengineering.com. But the process of making an intake manifold can go like this.
 
@@ -195,13 +203,23 @@ Next, connect those runners with fluoro-lined hoses. This special rubber hose is
 
 #### Materials 
 
+![Custom Flange](/da_cabby/assets/imgs/flange.JPG)
+
 For all of these parts, I'd recommend 5052 or 6061 aluminum, depending on your budget. For gaskets, repeat the CAD drawing of the mating surfaces and get those parts made of cork. You could do stainless steel, but it's added weight and may rust quicker than aluminum. For the intake hose, stick with fluoro-lined hoses and for vacuum hoses, any silicone or rubber hose for vacuum will do. If you are doing a DIY build, buy extras, test, draft, and test again! If you think you're saving money making it on your own, think again!
+
+![Cork](/da_cabby/assets/imgs/cork-1.jpg)
 
 Keep in mind these components will be getting hot so be mindful of heat shields, and sheathing. Buy good quality parts.
 
 ### Premade Kit
 
-A premade kit with a manifold and carburetor set will resolve most of the engineering issues, all you have to do is install them! I can't give specific notes here other than go through the installation slowly and understand the engineering design of it all. 
+![DanST Premade Kit](/da_cabby/assets/imgs/zx6r.JPG)
+
+A premade kit with a manifold and carburetor set will resolve most of the engineering issues, all you have to do is install them! I can't give specific notes here other than go through the installation slowly and understand the engineering design of it all.
+
+### AFR Gauge 
+
+An AFR Gauge or Air Fuel Ratio gauge will make this TREMENDOUSLY easier to diagnose. You can see, in almost real-time, your 
 
 ### Testing
 
@@ -343,6 +361,8 @@ Further down the line when we want to keep the car driving healthy, also ask you
 
 ### Is there a hissing noise when you use the starter?
 - **Check for vacuum leaks.** The hissing could be the air coming in through a small hole or leak. This is known as unmetered air. While we do want more air for the engine to create more power, unmetered air is unaccounted for and will through your AFR out of balance. Let's start the car on a good note.
+
+![Carb Conversion](/da_cabby/assets/imgs/leak.jpg)
 
 ### Car starts, then die, then starts again?
 - This could be because of several issues. Fueling, air leaks, alternator failing, cold engine, etc. You need to start broader and look at the five elements. Narrow down which system is failing then reference those issues as your new starting point.

@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![1985 Golf Mk1 convertible](/assets/img/cab.jpg)
+![1985 Golf Mk1 convertible](/assets/img/driveway1.jpg)
 *My 1985 Golf Cabriolet project car, with the vision to make it a fun NA cruiser around Hawai'i.*
 <br>
 
