@@ -104,15 +104,16 @@ I urge people to reconsider repairing their current system over replacing it bec
 ### The Conversion Roadmap
 
 We can break the conversion into these major steps:
-1. Remove the current fuel injection system 
-2. Adapt the fuel inlet and return, replace or install a pump, filters, and gauges to carbs
-3. Adapt air and vacuum, brake booster, and other vacuum references to carbs
-4. Install carburetors with custom flange and manifold
-5. Test for air, vacuum, and fuel leaks
-6. Install throttle cable 
-6. First start, first drive to 7-Eleven
-7. Tuning under general driving conditions
-8. Final adjustments* 
+1. [Remove the current fuel injection system]()
+2. [Adapt the fuel inlet and return, replace or install a pump, filters, and gauges to carbs]()
+3. [Install the new system]()
+4. [Hook up parts of the old system]()
+5. [Testing! Checks before the first start.]()
+6. [Install throttle cable]()
+7. [First drive to the gas station]()
+8. [Tuning sessions]()
+9. [Final adjustments]()
+10.[Troubleshooting]()
 
 Ideally, this is how the project build would go. Pretty simple! But, this is a project car. You will break stuff. You will find other parts that need repairs. You will remember that you wanted to buy a new door handle because it says, Porsche. But if it all does happen as smoothly as possible, wonderful. But let's not get our hopes up. Let's begin with planning.
 
@@ -179,7 +180,7 @@ Next, follow the factory fuel feed line from the pump to the engine bay. Attach 
 
 If everything works as normal, congratulations, you assembled a fuel system! Not everyone can say that, now can they? Well, let's make sure it works, next up, are the air and vacuum systems.
 
-## 3. Vacuum System
+## 3. Install the new system
 
 The vacuum system is simple but can get tedious and complex as the days go on. I highly recommend having a smoke tester and a carburetor synchronizer tool.
 
@@ -232,6 +233,8 @@ Use the T-bolt clamps at the most crucial point: the intake manifold. In all oth
 Once the entire system is hooked up, we can almost start the car!
 
 Remember all other parts of your vehicle that utilize vacuum, think of your brake booster, charcoal emissions, vacuum-based systems like distributors, shift lights, and so on. There are many applications for the big air pump in your car we call the engine; therefore, the vacuum system needs to be completely sealed to be effective. Tracing a vacuum leak is quite difficult if you're not sure what happened. By using a smoke tester, you can push smoke through your vacuum system enough to see where a leak might occur! The smoke should reach the intake side of the fuel system, and if there are no more leaks, then you are all sealed from there. The hard part is getting there!
+## 4. Hook up parts of the old system
+
 
 ## 5. Testing! Checks before the first start.
 
@@ -243,6 +246,9 @@ To avoid damaging your engine, do whatever you need to do to prevent your plugs 
 - Check your fuel pressure, be sure it's the correct fuel pressure for your carbs. If it's low, check your fuel filter and check for blockages or kinks in your hoses. If it's too high, your pump might be faulty. 
 
 If everything goes smooth from here, attempt to start the car. Wire up all your plugs, coil, and fuel lines, clean up the engine bay and attempt to start the car. If it starts, congrats! **If it doesn't start, here are some issues you could be running into.**
+
+## 6. Install throttle cable
+
 
 ## 7. First drive to the gas station
 
@@ -259,7 +265,7 @@ Our goal is to hit these target AFR ratios to balance performance and efficiency
 https://www.safrtool.com/SAFR-AFR-values.asp
 
 - 6 AFR - Rich Burn Limit
-- 9 AFR - Black Smoke | Low Power
+- 9 AFR - Black Smoke, Low Power
 - 11.5 AFR - Best Rich Torque at Wide Open Throttle (WOT)
 - 12.2 AFR - Safe Best Power at Wide Open Throttle (WOT)
 - 13.3 AFR - Lean Best Torque
