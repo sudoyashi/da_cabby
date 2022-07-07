@@ -123,7 +123,7 @@ I highly endorse drafting your design before making any changes.
 
 Look at your current fuel system, vacuum, electrical, and mechanical components that will be removed or modified. Research your car's systems and find a diagram to minimize the number of surprise trips to the parts store. Draw each system separately on a sheet of paper and go through it in person with your car. If you are adding electrical systems, be mindful of the correct fuses and possible relays you want to run. Finally, any mechanical connections such as your throttle cable, spring adjustments on the carbs, fuel line routing, wire sheathing, heatshields, mounts, cables, brackets, etc. We cannot account for every little thing, but this will simplify your installation and diagnosis if you have it on paper.
 
-Here are the plans that I made regarding my fuel system, vacuum system, electrical components, and notes on the mechanical components.
+Here are the plans that I made regarding my fuel system, vacuum system, and electrical components.
 
 ### Fuel System Plan
 
@@ -131,15 +131,27 @@ Here are the plans that I made regarding my fuel system, vacuum system, electric
 
 ### Electrical Components Plan
 
-### Mechanical Components Plan
 
 ## 1. Remove the current fuel injection system
 
 Removing the current system is pretty straightforward, but don't go ripping out every single component. We'll look at the process I went through with the Golf.
 
-The basics of removing the current fueling system start from the fuel pump. You can assess what you need and don't need. I kept the in-tank fuel pump since that acted more as a sender from the fuel tank. In the original design of the Golf, two fuel pumps exist the in-tank one and the pressurized one outside of the pump. I removed the outside one and connected it to the fuel tank along with the accumulator. From the rear of the car, I also removed whichever fittings I could and temporarily removed the hoses to the fuel return. 
+The basics of removing the current fueling system start from the fuel pump. You can assess what you need and don't need. I kept the in-tank fuel pump since that acted more as a sender from the fuel tank. In the original design of the Golf, two fuel pumps exist the in-tank one and the pressurized one outside of the pump. I removed the outside one and connected it to the fuel tank along with the accumulator. From the rear of the car, I also removed whichever fittings I could and temporarily removed the hoses to the fuel return.
 
-At the time, I was not sure what to do with the fuel return, so I just capped it off and both ends, keeping it there just in case for the future.
+In the engine bay, I removed the entire CIS system, barring some components that were directly on the block. For a Golf Mk1 this includes:
+- Fuel filter before fuel distributor
+- Fuel distributor
+- All 5 fuel lines to each cylinder inject (1-4) and cold start injector  (5)
+- Intake manifold with throttle body
+- Idle stabilization components
+- Disconnect wire from Warm Up Regulator (WUR)
+- Disconnect wire to frequency valve 
+- Vacuum hoses connecting to brake booster, valve cover, distributor, and intake
+- Fuel in and fuel out lines
+
+You may have more or less components than my setup.
+
+At the time, I was not sure what to do with the fuel return, so I just capped it off and both ends, keeping it there just in case for the future to add a fuel return to resolve heat soak issues.
 
 ## 2. Modify the fuel delivery system
 
@@ -157,7 +169,7 @@ Confirm that all of these parts work normally, tighten your clamps and move on.
 
 ### Main Fuel Pump
 
-If you follow the feed line out of the fuel tank, you will get to the car's original fuel pump inlet. We are going to be removing and replacing it. While you can leave it on and install a fuel pressure regulator, I replaced it with a low PSI fuel pump, around 2-3 PSI, to simplify the design. At this point we have other considerations, do you want to replace all the rubber lines with new rubber or braided stainless steel?
+If you follow the feed line out of the fuel tank, you will get to the car's original fuel pump inlet. We are going to be removing and replacing it. While you can leave it on and install a fuel pressure regulator, I replaced it with a low PSI fuel pump, up to 4PSI, to simplify the fuel system design. At this point, do you want to replace all the rubber lines with new rubber or braided stainless steel?
 
 Since I'm cheap, I went with 5/16" rubber lines. It fit most places and I didn't need to use too many adapters for a different size. But here's a quick comparison:
 
@@ -178,21 +190,21 @@ Add your filter before the fuel pump, install the fuel pump, and fasten it to a 
 
 Next, follow the factory fuel feed line from the pump to the engine bay. Attach another line, a pressure gauge, fuel filter, and the final line that leads to the fuel inlet for the carburetors. Be VERY mindful of any lines that are running near hot areas like the exhaust manifold to prevent heat soak. If necessary, sheathe the lines with heat protection. Confirm all your clamps are sealed and pressurize your system for leaks by turning your car on and running your fuel pump.
 
-If everything works as normal, congratulations, you assembled a fuel system! Not everyone can say that, now can they? Well, let's make sure it works, next up, are the air and vacuum systems.
+If everything works as normal, congratulations, you assembled a fuel system! Not everyone can say that now can they? Well, let's make sure this car will work, next up, are the air and vacuum systems.
 
 ## 3. Install the new system
 
-The vacuum system is simple but can get tedious and complex as the days go on. I highly recommend having a smoke tester and a carburetor synchronizer tool.
+The vacuum system is simple but can get tedious and complex when you start to add more components. I highly recommend having a smoke tester and a carburetor synchronizer tool.
 
-With your car's original intake system gone, let's draft up our system. Two options: DIY and premade.
+With your car's original intake system gone, let's draft up our system. Two options: DIY intake and premade.
+
+From the engine head, you will need to connect your carbs to those intake ports. You can either fabricate your own intake manifold or buy a premade one if you can find one. I bought my manifold from danstengineering.com. But the process of making an intake manifold can go like this.
 
 ### DIY Intake
 
 ![CAD Draft](/da_cabby/assets/img/cad-intakezx6r.png)
 
-From the engine head, you will need to connect your carbs to those intake ports. You can either fabricate your own intake manifold or buy a premade one if you can find one. I bought my manifold from danstengineering.com. But the process of making an intake manifold can go like this.
-
-Remove the original intake manifold. Measure and draft the intake manifold's mating surface to create the flange that will bolt to the head. You can also take the original gasket and trace that out for the bolt pattern of your new flange. It can be an integrated flange to directly to the carbs, or a two-part flange. A two-part flange would have one piece bolt to the head, one piece attached to the carbs, and you fasten those together to create one piece. Personally, I'm not sure which design I would go with. I would have simplified and gone with the all-in-one piece, but the two-piece may be easier to service. It also means two times the fasteners and gaskets. Anyways...
+Remove the original intake manifold. Measure and draft the intake manifold's mating surface to create the flange that will bolt to the head. You can also take the original gasket and trace that out for the bolt pattern of your new flange. It can be an integrated flange to fit directly to the carbs, or a two-piece flange. One piece bolt to the head, then another piece that will connect the head to the carbs. Personally, I'm not sure which design I would go with. I would have simplified and gone with the all-in-one piece, but the two-piece may be easier to service. It also means two times the fasteners and gaskets. Anyways...
 
 With the mating surface drafted, create your flanged surface and draft out how long your intake runners will be. 
 
@@ -210,7 +222,7 @@ For all of these parts, I'd recommend 5052 or 6061 aluminum, depending on your b
 
 ![Cork](/da_cabby/assets/imgs/cork-1.jpg)
 
-Keep in mind these components will be getting hot so be mindful of heat shields, and sheathing. Buy good quality parts.
+Keep in mind these components will be getting hot, I recommend using heat shields for body parts, rubber, or other sensitive parts  and wire sheath to protect any wires.
 
 ### Premade Kit
 
