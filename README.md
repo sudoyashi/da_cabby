@@ -2,17 +2,7 @@
 Jekyll build for the website
 Link: https://sudoyashi.github.io/JoshAtWork
 
-## Personal Notes on jekyll
-To open the website locally: *bundle exec jekyll serve*
-Can't open because of webrick error? *bundle add webrick*
-
-Don't forget to merge, pull, and push properly!
-- git init
-- git status
-- git config --global user.name "namehere"
-- git config --global user.email "emailhere"
-
-
+A collection of my project notes on cars, design, and other hobbies that I decided to spend ~~a silly~~ my valuable amount of money and time into.
 ## \#1. Da Cabby - The Lil Carbureted Convertible
 
 My 1985 Volkswagen Golf Cabriolet is my first project that I started learning on since getting my own beginner socket and wrench set in 2020. I have spent roughly $10,000 inclusive of the fees, maintenance costs, custom parts, and other useless things I shouldn’t have bought. It’s probably more, but I stopped counting at 5 figures for this shitty hunk of metal lol.
@@ -28,3 +18,16 @@ My 2007 Audi A3 is not technically a project car, but it's definitely a car that
 ## \#3. CAD - Where Cardboard and Computers Collide
 
 CAD was something elusive to me. I've always been surrounded by computers and design work, yet I could never put it together until necessity came around. Designing parts for the Volkswagen, the possibilities of CAD and 3D parts were finally blown open. Making gaskets, flanges, and block-off plates proved to be a cunning exercise in Google searching, YouTube learning, and learning a lot about materials. 
+
+-----
+
+## Personal Notes on jekyll
+To open the website locally: *bundle exec jekyll serve*
+Can't open because of webrick error? *bundle add webrick*
+
+Don't forget to merge, pull, and push properly!
+- git init
+- git status
+- git config --global user.name "namehere"
+- git config --global user.email "emailhere"
+
