@@ -2,7 +2,10 @@
 Jekyll build for the website
 Link: https://sudoyashi.github.io/JoshAtWork
 
-A collection of my project notes on cars, design, and other hobbies that I decided to spend ~~a silly~~ my valuable amount of money and time into.
+A collection of my project notes on cars, design, and other hobbies that I decided to spend ~~a silly~~ my valuable amount of money and time into. If there's something valuable I want to take away from trying something new, then motherfucka I am going to make sure I can walk away from it as a champ. Some entries may not have anything, but it probably means I'm too lazy to write about it.
+
+
+
 ## \#1. Da Cabby - The Lil Carbureted Convertible
 
 My 1985 Volkswagen Golf Cabriolet is my first project that I started learning on since getting my own beginner socket and wrench set in 2020. I have spent roughly $10,000 inclusive of the fees, maintenance costs, custom parts, and other useless things I shouldn’t have bought. It’s probably more, but I stopped counting at 5 figures for this shitty hunk of metal lol.
@@ -18,6 +21,21 @@ My 2007 Audi A3 is not technically a project car, but it's definitely a car that
 ## \#3. CAD - Where Cardboard and Computers Collide
 
 CAD was something elusive to me. I've always been surrounded by computers and design work, yet I could never put it together until necessity came around. Designing parts for the Volkswagen, the possibilities of CAD and 3D parts were finally blown open. Making gaskets, flanges, and block-off plates proved to be a cunning exercise in Google searching, YouTube learning, and learning a lot about materials. 
+
+
+## \#4. Writing - Stupid Simple.
+
+## \#5. Calligraphy - Doesn't make your handwriting better.
+
+## \#6. Open Water Swimming - Exactly what you thought. Scary, tough, but incredibly rewarding.
+
+## \#7. IT Administration - Principles to not hurt yourself as an IT Admin.
+
+## \#8. Curiosities of silly things. - 
+
+## \#9. Coffee - Cause we're all addicted to something.
+
+## \#10. Skills - Do you want to be useless, or naw?
 
 -----
 
