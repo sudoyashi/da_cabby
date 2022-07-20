@@ -1,6 +1,6 @@
 # Da_Cabby
 Jekyll build for the website
-Link: https://sudoyashi.github.io/JoshHasProjects
+Link: https://sudoyashi.github.io/JoshAtWork
 
 To open the website locally: *bundle exec jekyll serve*
 Can't open because of webrick error? *bundle add webrick*
