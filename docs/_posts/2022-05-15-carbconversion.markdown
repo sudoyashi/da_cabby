@@ -35,9 +35,13 @@ A bike carb conversion is not very common and doesn't seem to get too much good 
 
 The main benefit that comes from a carb conversion is the ability to revive a dying fuel system. Carburetors are mechanical devices, so you got both the pros and cons of analog devices. For one thing, they are simple and that's great for someone who wants to start doing some tinkering on their own. But as simple as they are, it also means you have to be able to adjust every single detail of the carburetor to perform at its best. Working on carbs is easy, but figuring out what to fix is the challenge.
 
-For this conversion to go well, there will be many failures, and finding the right solution to those failures will take more than what this guide can provide. The principles behind the setup are like any other internal combustion engine, provide air and fuel at the correct ratio to combust. The big problem with this swap is it's not exactly the most popular swap in the world. This isn't engine swap complexity, but it can get close if you are building your own air/fuel system. So, as someone that has done a bike carburetor swap, stick with your current fuel system and only do a carb swap to the mainstream Webers, or other DCOE carbs. There are no specific positives that warrant a bike swap as your primary option. But why did it do it? Instant torque. A visceral intake sound. And it was a lot cheaper than doing an engine swap!
+For this conversion to go well, there will be many failures, and finding the right solution to those failures will take more than what this guide can provide. The principles behind the setup are like any other internal combustion engine, provide air and fuel at the correct ratio to combust. The big problem with this swap is it's not exactly the most popular swap in the world. This isn't engine swap complexity, but it can get close if you are building your own air/fuel system. So, as someone that has done a bike carburetor swap, don't do this swap LOL.
 
-But, I chose the bike carburetors for a reason: it looked like a pretty fun challenge! There is a lot of diagnosis, time, money, and patience that went into this conversion. Since this is my first project car, I decided to go with this route to learn how to modify a low-power, fun car. Gaining experience with basic systems and tools will prepare me for future projects to improve my diagnostic analysis and simply make better projects.  
+Stick with your current fuel system and only do a carburetor swap when you don't have any options to fix your fuel injection (FI) setup. Otherwise, I would use any mainstream carburetor setup such as Holleys or Webers, or any other reputable DCOE carbs. There are no specific positives that warrant a bike swap as your primary option. Are there any advantages to doing it?
+
+One hell of an intake noise. And there weren't many options to get a used set of DCOE carbs when I first started this project! I sometimes have a hard time finding parts for this car, and the accompanying intake manifold for a DCOE setup wasn't readily available at the time. But the main reason: it looked like a pretty fun challenge! I guess I'm a masochist for problems.
+
+There was a lot of diagnosis, learning, time, money, and patience that went into this conversion. Since this is my first project car, I decided to go with this route to learn how to modify a low-power, fun car. Gaining experience with basic systems and tools will prepare me for future projects to improve my diagnostic analysis and simply make better projects. In the future, I'd transition over to an FI/ECU setup or maybe ITBs. I'll tell you this, I learned so much about how fueling works for a car than I would have ever thought and I do not regret anything with this conversion.
 
 ## Parts and materials for a bike carb 
 Here is a list of parts I can remember using. The number of combinations and solutions to the odds and ends of this project is limitless. Thus, use this as a guide instead of an end-all, be-all because you're definitely going to need more than what I have here.
@@ -45,7 +49,7 @@ Here is a list of parts I can remember using. The number of combinations and sol
 ### Essential parts
 
 - 4-barrel bike carburetors
-- Custom intake manifold
+- Custom intake manifold with accompanying gaskets and fasteners
 - Fuel line kit for fuel IN, 5/16" in my case for a Volkswagen Golf Mk1
 - Fuel line kit for fuel RETURN
 - Fuel filter
@@ -65,13 +69,13 @@ Here is a list of parts I can remember using. The number of combinations and sol
 ### Carburetor parts 
 
 - Stock, factory pilot, main, needle jet parts
-- Larger jets for modifications in setup
+- Larger jets (pilot and main) for modifications to setup
 - Longer adjustable idle mixture screw
 - Spare fuel bowl gaskets
 - Spare float bowl parts (hinge, level, screw)
 - Throttle cable kit
 
-### Heat, Fuel, and Engine Management (optional, but recommended)
+### Heat, Fuel, and Engine Management (optional, but highly recommended)
 - Heat shields 
 - Fuel heat sheathe
 - Fuel pressure gauge
@@ -101,27 +105,32 @@ Here is a list of parts I can remember using. The number of combinations and sol
 - 18AWG and 12AWG wire kits, 3 or 4 colors would be good enough
 - Voltmeter
 - Hose cutters or new, sharp, blades
+- Zip ties and other quick solutions
 
 I would say a majority of these tools come pretty standard in a well-equipped DIY garage. You may need to buy or borrow other carburetor and tuning specific tools like:
 - A vacuum-mercury gauge
 - AFR gauge
 - CO2 gauge
 - Fuel pressure gauge *get a good one, like from [Aeromotive Inc](https://www.summitracing.com/parts/aei-15632?seid=srese1).* 
-- Smoke tester.
+- Smoke tester
 
 May 15, 2022: I'll edit this more when I can remember more tools.
 
 You need to think about this fuel system change like an undocumented engine swap. There are probably a handful of people in the world that have done the same setup and goals. The more common your car, the more common the setup, and the easier it will be.
 
-Other builds may have a different camshaft,  exhaust, or carburetor. This is a brief guide with my own experience tied in and, as such, I cannot cover every iteration of carbs, chassis, and other bolt-ons. Use this guide as a base and build your car from there. You will have to do all of the tuning, carburetor jetting, vacuum adjustments, heat management, plumbing, and electrical work. Many shops won't be willing to take on this work because it's very custom and very tedious. If you have a shop that can do it, I strongly recommend you think twice about their offer. Once you remove the manufacturer's original design, you ruin the balance of drivability, power, and reliability. Most projects will fail because they ruin the ability to drive them. Don't be that guy.
+Other builds may have a different camshaft,  exhaust, or carburetor. I cannot cover every iteration of carbs, chassis, and other bolt-ons. Use this guide as a base and build your car from there. You will have to do all of the tuning, carburetor jetting, vacuum adjustments, heat management, plumbing, and electrical work. Many shops won't be willing to take on this work because it's very custom and very tedious for not a lot of gain. If you have a shop that can do it, again, I strongly recommend you think twice about this. Once you remove the manufacturer's original design, you ruin the balance of drivability, power, and reliability.
 
-I urge people to reconsider repairing their current system over replacing it because it gets very frustrating to convert and diagnose the whole system. But if you're foolish enough to go through with a bike carb conversion, welcome!
+Most projects will fail because they ruin the ability to drive them. Don't be that guy.
+
+I urge people to reconsider repairing their current system over replacing it because it gets very frustrating to convert and diagnose the whole system. But if you're foolish enough to go through with a bike carb conversion like me, welcome!
 
 ## 0. Drafting
 
-I highly endorse drafting your design before making any changes.
+Drafting your design before making any changes is not manadatory, but you'll kick your ass more than once for not having the foresight to miss plumbing in an extra vacuum line or mispump.
 
-Look at your current fuel system, vacuum, electrical, and mechanical components that will be removed or modified. Research your car's systems and find a diagram to minimize the number of surprise trips to the parts store. Draw each system separately on a sheet of paper and go through it in person with your car. If you are adding electrical systems, be mindful of the correct fuses and possible relays you want to run. Finally, any mechanical connections such as your throttle cable, spring adjustments on the carbs, fuel line routing, wire sheathing, heatshields, mounts, cables, brackets, etc. We cannot account for every little thing, but this will simplify your installation and diagnosis if you have it on paper.
+Look at your current fuel system, vacuum, electrical, and mechanical components that will be removed or modified. Research your car's systems and find a diagram to minimize the number of surprise trips to the parts store. Draw each system separately on a sheet of paper and go through it in person with your car. If you are adding electrical systems, be mindful of the correct fuses and possible relays you want to run. Finally, any mechanical connections such as your throttle cable, spring adjustments on the carbs, fuel line routing, wire sheathing, heatshields, mounts, cables, brackets, etc.
+
+Planning will get you 80% there with your final configuration, but you will obviously have to adjust for what is actually in front of you.
 
 Here are the plans that I made regarding my fuel system, vacuum system, and electrical components.
 
@@ -136,12 +145,12 @@ Here are the plans that I made regarding my fuel system, vacuum system, and elec
 
 Removing the current system is pretty straightforward, but don't go ripping out every single component. We'll look at the process I went through with the Golf.
 
-The basics of removing the current fueling system start from the fuel pump. You can assess what you need and don't need. I kept the in-tank fuel pump since that acted more as a sender from the fuel tank. In the original design of the Golf, two fuel pumps exist the in-tank one and the pressurized one outside of the pump. I removed the outside one and connected it to the fuel tank along with the accumulator. From the rear of the car, I also removed whichever fittings I could and temporarily removed the hoses to the fuel return.
+The basics of removing the current fueling system start from the fuel pump. You can assess what you need and don't need. I kept the internal fuel pump since I saw someone else do that, honsetly. In the original design of the Golf, two fuel pumps exist the in-tank one and the pressurized one outside of the tank. I removed the pressurized one outside and replaced that with the bike fuel pump, this pumps at about PSI 4-6PSI versus the factory 43.5PSI. From the rear of the car, I also removed whichever fittings I could and temporarily removed the hoses to the fuel return.
 
 In the engine bay, I removed the entire CIS system, barring some components that were directly on the block. For a Golf Mk1 this includes:
 - Fuel filter before fuel distributor
 - Fuel distributor
-- All 5 fuel lines to each cylinder inject (1-4) and cold start injector  (5)
+- All 5 fuel lines to each cylinder inject (1-4) and cold start injector (5)
 - Intake manifold with throttle body
 - Idle stabilization components
 - Disconnect wire from Warm Up Regulator (WUR)
